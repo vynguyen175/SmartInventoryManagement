@@ -1,0 +1,1141 @@
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.csproj.AssemblyReference.cache
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.AssemblyInfoInputs.cache
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.AssemblyInfo.cs
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.RazorAssemblyInfo.cache
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.RazorAssemblyInfo.cs
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.sourcelink.json
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\appsettings.json
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\SmartInventoryManagement.staticwebassets.runtime.json
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\SmartInventoryManagement.staticwebassets.endpoints.json
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\SmartInventoryManagement.exe
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\SmartInventoryManagement.deps.json
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\SmartInventoryManagement.runtimeconfig.json
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\SmartInventoryManagement.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\SmartInventoryManagement.pdb
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Humanizer.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Npgsql.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\scopedcss\bundle\SmartInventoryManagement.styles.css
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\scopedcss\projectbundle\SmartInventoryManagement.bundle.scp.css
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ug7tp3r3c1-b9sayid5wm.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\n6e3l27xne-61n19gt1b8.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\zfwqi2fxs9-xtxxf3hu2r.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ag1ehhnl1y-t1cqhe9u97.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ewbgof1cqs-c2jlpeoesf.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\obdzm4sri9-sejl45xvog.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\jqdhvfwbpx-aexeepp0ev.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\zdnypu3q00-xvp3kq03qx.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\l01byhlvy1-ausgxo2sd3.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\9q4q3rv19y-22vffe00uq.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ehb0i2y5bc-cosvhxvwiu.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\k879q07rdd-qesaa3a1fm.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ysdss83qkh-fvhpjtyr6v.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\oqtyilhpsm-tmc1g35s3z.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\yhw7xaa7xh-fsbi9cje9m.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\efb6aywg0i-rxsg74s51o.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\dye7fxcj6e-ee0r1s7dh0.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\39qtqm6b9q-q9ht133ko3.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\km0wk2sfk2-jd9uben2k1.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\qz8s13w84p-gye83jo8yx.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\84cp9v3b9o-r4e9w2rdcm.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\0xzi0ayzze-wl58j5mj3v.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\w6lhls0u3d-c2oey78nd0.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\1kegjftwce-d4r6k3f320.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\lsubc19h13-j5mq2jizvt.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\zq99pef6uq-keugtjm085.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\w4tggpjcvf-nvvlpmu67g.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ull2ao24p4-zub09dkrxp.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\onufqxbehf-pj5nd1wqec.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\wzmpyf4b8p-43atpzeawx.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\aesbb4a03x-v0zj4ognzu.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\jym4beds8r-ynyaa8k90p.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\4a25viptif-hrwsygsryq.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\scju98ogzc-c63t5i9ira.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\87imy2xu7w-ft3s53vfgj.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\hhsfrqb16j-4094rpi4f9.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\9gs1to1q6f-6pdc2jztkx.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\yxiydctyz6-hd3gran6i8.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ow2bv7eerd-iovd86k7lj.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\z1x87w2u15-ltid2c489k.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\5iet65f1aj-kbrnm935zg.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\du4mc2rqao-8vyfqsqgz1.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\qemb0y5jfh-y7v9cxd14o.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\h9qs1o0xa8-u9q1upor1n.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\80nsoc2by7-h1s4sie4z3.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\9s7irbg3i9-4d85u1mtcx.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\h6e7zug5fo-0j3bgjxly4.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\zc14o19qjj-03hjc8e09r.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\nmx9l18u7v-48y08845bh.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\uj2ua17y91-356vix0kms.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\0zz5us8mqe-83jwlth58m.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\5iuhobcdf8-mrlpezrjn3.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\a6w2eczzwf-worgj0nhwm.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\q49h46d4xq-gk0pw8i4co.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\5h5dfhirk2-x0q3zqp4vz.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\fuc1rn49dh-d6nrnj6jjx.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\anou2wpxpu-m9qm4tazc0.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\qsa2jipwnu-ttgo8qnofa.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\at6y0mypqn-jjsuc0puko.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\555t01um55-9vr69e8ynj.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\33un76m9l6-87fc7y1x7t.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\1738mamq44-mlv21k5csn.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\f6spkhwg1z-n4j5sx9yxq.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\eqjmbik93t-n4j5sx9yxq.gz
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\staticwebassets\msbuild.SmartInventoryManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\staticwebassets\msbuild.SmartInventoryManagement.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\staticwebassets\msbuild.build.SmartInventoryManagement.props
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.SmartInventoryManagement.props
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.SmartInventoryManagement.props
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInv.703F6D2F.Up2Date
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\refint\SmartInventoryManagement.dll
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.pdb
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.genruntimeconfig.cache
+C:\Users\phant\Desktop\GBC\s4\comp2139\COMP2139-ICE1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\ref\SmartInventoryManagement.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.csproj.AssemblyReference.cache
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.AssemblyInfoInputs.cache
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.AssemblyInfo.cs
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.RazorAssemblyInfo.cache
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.RazorAssemblyInfo.cs
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\refint\SmartInventoryManagement.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.pdb
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\appsettings.json
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\SmartInventoryManagement.staticwebassets.endpoints.json
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\SmartInventoryManagement.staticwebassets.runtime.json
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\SmartInventoryManagement.exe
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\SmartInventoryManagement.deps.json
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\SmartInventoryManagement.runtimeconfig.json
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\SmartInventoryManagement.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\SmartInventoryManagement.pdb
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Humanizer.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Npgsql.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\scopedcss\bundle\SmartInventoryManagement.styles.css
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\scopedcss\projectbundle\SmartInventoryManagement.bundle.scp.css
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ug7tp3r3c1-b9sayid5wm.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\n6e3l27xne-61n19gt1b8.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\zfwqi2fxs9-xtxxf3hu2r.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ag1ehhnl1y-t1cqhe9u97.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ewbgof1cqs-c2jlpeoesf.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\obdzm4sri9-sejl45xvog.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\jqdhvfwbpx-aexeepp0ev.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\zdnypu3q00-xvp3kq03qx.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\l01byhlvy1-ausgxo2sd3.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\9q4q3rv19y-22vffe00uq.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ehb0i2y5bc-cosvhxvwiu.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\k879q07rdd-qesaa3a1fm.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ysdss83qkh-fvhpjtyr6v.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\oqtyilhpsm-tmc1g35s3z.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\yhw7xaa7xh-fsbi9cje9m.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\efb6aywg0i-rxsg74s51o.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\dye7fxcj6e-ee0r1s7dh0.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\39qtqm6b9q-q9ht133ko3.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\km0wk2sfk2-jd9uben2k1.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\qz8s13w84p-gye83jo8yx.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\84cp9v3b9o-r4e9w2rdcm.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\0xzi0ayzze-wl58j5mj3v.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\w6lhls0u3d-c2oey78nd0.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\1kegjftwce-d4r6k3f320.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\lsubc19h13-j5mq2jizvt.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\zq99pef6uq-keugtjm085.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\w4tggpjcvf-nvvlpmu67g.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ull2ao24p4-zub09dkrxp.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\onufqxbehf-pj5nd1wqec.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\wzmpyf4b8p-43atpzeawx.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\aesbb4a03x-v0zj4ognzu.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\jym4beds8r-ynyaa8k90p.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\4a25viptif-hrwsygsryq.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\scju98ogzc-c63t5i9ira.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\87imy2xu7w-ft3s53vfgj.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\hhsfrqb16j-4094rpi4f9.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\9gs1to1q6f-6pdc2jztkx.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\yxiydctyz6-hd3gran6i8.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ow2bv7eerd-iovd86k7lj.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\z1x87w2u15-ltid2c489k.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\5iet65f1aj-kbrnm935zg.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\du4mc2rqao-8vyfqsqgz1.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\qemb0y5jfh-y7v9cxd14o.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\h9qs1o0xa8-u9q1upor1n.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\80nsoc2by7-h1s4sie4z3.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\9s7irbg3i9-4d85u1mtcx.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\h6e7zug5fo-0j3bgjxly4.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\zc14o19qjj-03hjc8e09r.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\nmx9l18u7v-48y08845bh.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\uj2ua17y91-356vix0kms.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\0zz5us8mqe-83jwlth58m.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\5iuhobcdf8-mrlpezrjn3.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\a6w2eczzwf-worgj0nhwm.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\q49h46d4xq-gk0pw8i4co.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\5h5dfhirk2-x0q3zqp4vz.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\fuc1rn49dh-d6nrnj6jjx.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\anou2wpxpu-m9qm4tazc0.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\qsa2jipwnu-ttgo8qnofa.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\at6y0mypqn-jjsuc0puko.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\555t01um55-9vr69e8ynj.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\33un76m9l6-87fc7y1x7t.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\1738mamq44-mlv21k5csn.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\f6spkhwg1z-n4j5sx9yxq.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\eqjmbik93t-n4j5sx9yxq.gz
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\staticwebassets\msbuild.SmartInventoryManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\staticwebassets\msbuild.SmartInventoryManagement.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\staticwebassets\msbuild.build.SmartInventoryManagement.props
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.SmartInventoryManagement.props
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.SmartInventoryManagement.props
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInv.703F6D2F.Up2Date
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.genruntimeconfig.cache
+C:\Users\phant\Desktop\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\ref\SmartInventoryManagement.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\appsettings.json
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\SmartInventoryManagement.staticwebassets.endpoints.json
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\SmartInventoryManagement.staticwebassets.runtime.json
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\SmartInventoryManagement.exe
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\SmartInventoryManagement.deps.json
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\SmartInventoryManagement.runtimeconfig.json
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\SmartInventoryManagement.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\SmartInventoryManagement.pdb
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Humanizer.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Npgsql.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.csproj.AssemblyReference.cache
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.AssemblyInfoInputs.cache
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.AssemblyInfo.cs
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.RazorAssemblyInfo.cache
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.RazorAssemblyInfo.cs
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\scopedcss\bundle\SmartInventoryManagement.styles.css
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\scopedcss\projectbundle\SmartInventoryManagement.bundle.scp.css
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\n6e3l27xne-61n19gt1b8.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\zfwqi2fxs9-xtxxf3hu2r.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ag1ehhnl1y-t1cqhe9u97.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ewbgof1cqs-c2jlpeoesf.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\obdzm4sri9-sejl45xvog.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\jqdhvfwbpx-aexeepp0ev.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\zdnypu3q00-xvp3kq03qx.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\l01byhlvy1-ausgxo2sd3.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\9q4q3rv19y-22vffe00uq.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ehb0i2y5bc-cosvhxvwiu.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\k879q07rdd-qesaa3a1fm.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ysdss83qkh-fvhpjtyr6v.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\oqtyilhpsm-tmc1g35s3z.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\yhw7xaa7xh-fsbi9cje9m.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\efb6aywg0i-rxsg74s51o.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\dye7fxcj6e-ee0r1s7dh0.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\39qtqm6b9q-q9ht133ko3.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\km0wk2sfk2-jd9uben2k1.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\qz8s13w84p-gye83jo8yx.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\84cp9v3b9o-r4e9w2rdcm.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\0xzi0ayzze-wl58j5mj3v.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\w6lhls0u3d-c2oey78nd0.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\1kegjftwce-d4r6k3f320.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\lsubc19h13-j5mq2jizvt.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\zq99pef6uq-keugtjm085.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\w4tggpjcvf-nvvlpmu67g.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ull2ao24p4-zub09dkrxp.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\onufqxbehf-pj5nd1wqec.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\wzmpyf4b8p-43atpzeawx.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\aesbb4a03x-v0zj4ognzu.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\jym4beds8r-ynyaa8k90p.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\4a25viptif-hrwsygsryq.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\scju98ogzc-c63t5i9ira.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\87imy2xu7w-ft3s53vfgj.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\hhsfrqb16j-4094rpi4f9.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\9gs1to1q6f-6pdc2jztkx.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\yxiydctyz6-hd3gran6i8.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ow2bv7eerd-iovd86k7lj.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\z1x87w2u15-ltid2c489k.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\5iet65f1aj-kbrnm935zg.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\du4mc2rqao-8vyfqsqgz1.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\qemb0y5jfh-y7v9cxd14o.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\h9qs1o0xa8-u9q1upor1n.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\80nsoc2by7-h1s4sie4z3.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\9s7irbg3i9-4d85u1mtcx.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\h6e7zug5fo-0j3bgjxly4.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\zc14o19qjj-03hjc8e09r.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\nmx9l18u7v-48y08845bh.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\uj2ua17y91-356vix0kms.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\0zz5us8mqe-83jwlth58m.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\5iuhobcdf8-mrlpezrjn3.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\a6w2eczzwf-worgj0nhwm.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\q49h46d4xq-gk0pw8i4co.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\5h5dfhirk2-x0q3zqp4vz.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\fuc1rn49dh-d6nrnj6jjx.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\anou2wpxpu-m9qm4tazc0.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\qsa2jipwnu-ttgo8qnofa.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\at6y0mypqn-jjsuc0puko.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\555t01um55-9vr69e8ynj.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\33un76m9l6-87fc7y1x7t.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\1738mamq44-mlv21k5csn.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\f6spkhwg1z-n4j5sx9yxq.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\eqjmbik93t-n4j5sx9yxq.gz
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\staticwebassets\msbuild.SmartInventoryManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\staticwebassets\msbuild.SmartInventoryManagement.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\staticwebassets\msbuild.build.SmartInventoryManagement.props
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.SmartInventoryManagement.props
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.SmartInventoryManagement.props
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInv.703F6D2F.Up2Date
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\refint\SmartInventoryManagement.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.pdb
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.genruntimeconfig.cache
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\ref\SmartInventoryManagement.dll
+C:\Users\phant\Desktop\COMP2139 - Copy\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ug7tp3r3c1-6vhze43jhd.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\appsettings.json
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\SmartInventoryManagement.staticwebassets.runtime.json
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\SmartInventoryManagement.staticwebassets.endpoints.json
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\SmartInventoryManagement.exe
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\SmartInventoryManagement.deps.json
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\SmartInventoryManagement.runtimeconfig.json
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\SmartInventoryManagement.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\SmartInventoryManagement.pdb
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Humanizer.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Npgsql.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Serilog.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Serilog.AspNetCore.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Serilog.Extensions.Hosting.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Serilog.Extensions.Logging.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Serilog.Formatting.Compact.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Serilog.Settings.Configuration.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Serilog.Sinks.Console.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Serilog.Sinks.Debug.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Serilog.Sinks.File.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.csproj.AssemblyReference.cache
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.AssemblyInfoInputs.cache
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.AssemblyInfo.cs
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.RazorAssemblyInfo.cache
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.RazorAssemblyInfo.cs
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.sourcelink.json
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\scopedcss\bundle\SmartInventoryManagement.styles.css
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\scopedcss\projectbundle\SmartInventoryManagement.bundle.scp.css
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ug7tp3r3c1-6vhze43jhd.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\n6e3l27xne-61n19gt1b8.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ag1ehhnl1y-t1cqhe9u97.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ewbgof1cqs-c2jlpeoesf.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\obdzm4sri9-sejl45xvog.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\jqdhvfwbpx-aexeepp0ev.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\zdnypu3q00-xvp3kq03qx.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\l01byhlvy1-ausgxo2sd3.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\9q4q3rv19y-22vffe00uq.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ehb0i2y5bc-cosvhxvwiu.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\k879q07rdd-qesaa3a1fm.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ysdss83qkh-fvhpjtyr6v.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\oqtyilhpsm-tmc1g35s3z.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\yhw7xaa7xh-fsbi9cje9m.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\efb6aywg0i-rxsg74s51o.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\dye7fxcj6e-ee0r1s7dh0.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\39qtqm6b9q-q9ht133ko3.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\km0wk2sfk2-jd9uben2k1.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\qz8s13w84p-gye83jo8yx.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\84cp9v3b9o-r4e9w2rdcm.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\0xzi0ayzze-wl58j5mj3v.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\w6lhls0u3d-c2oey78nd0.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\1kegjftwce-d4r6k3f320.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\lsubc19h13-j5mq2jizvt.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\zq99pef6uq-keugtjm085.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\w4tggpjcvf-nvvlpmu67g.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ull2ao24p4-zub09dkrxp.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\onufqxbehf-pj5nd1wqec.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\wzmpyf4b8p-43atpzeawx.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\aesbb4a03x-v0zj4ognzu.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\jym4beds8r-ynyaa8k90p.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\4a25viptif-hrwsygsryq.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\scju98ogzc-c63t5i9ira.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\87imy2xu7w-ft3s53vfgj.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\hhsfrqb16j-4094rpi4f9.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\9gs1to1q6f-6pdc2jztkx.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\yxiydctyz6-hd3gran6i8.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ow2bv7eerd-iovd86k7lj.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\z1x87w2u15-ltid2c489k.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\5iet65f1aj-kbrnm935zg.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\du4mc2rqao-8vyfqsqgz1.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\qemb0y5jfh-y7v9cxd14o.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\h9qs1o0xa8-u9q1upor1n.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\80nsoc2by7-h1s4sie4z3.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\9s7irbg3i9-4d85u1mtcx.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\h6e7zug5fo-0j3bgjxly4.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\uj2ua17y91-356vix0kms.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\fuc1rn49dh-d6nrnj6jjx.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\anou2wpxpu-m9qm4tazc0.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\qsa2jipwnu-ttgo8qnofa.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\at6y0mypqn-jjsuc0puko.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\555t01um55-9vr69e8ynj.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\33un76m9l6-87fc7y1x7t.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\1738mamq44-mlv21k5csn.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\f6spkhwg1z-n4j5sx9yxq.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\eqjmbik93t-n4j5sx9yxq.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\staticwebassets\msbuild.SmartInventoryManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\staticwebassets\msbuild.SmartInventoryManagement.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\staticwebassets\msbuild.build.SmartInventoryManagement.props
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.SmartInventoryManagement.props
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.SmartInventoryManagement.props
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInv.703F6D2F.Up2Date
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\refint\SmartInventoryManagement.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.pdb
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\SmartInventoryManagement.genruntimeconfig.cache
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\ref\SmartInventoryManagement.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\libman.json
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\12utrytqsv-03hjc8e09r.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\05r4rb0hdc-48y08845bh.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\iiz3l9auz2-ilo7uva0vt.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\bdwo95w4m4-qlccset4i1.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\cg39z1m6gd-e0j594lf74.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\x97ybiq316-lzl9nlhx6b.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\gkje1fitvh-ag7o75518u.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\bk3q9ua2e7-xjzke54njl.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\8u6uthxz4o-4cdyficzrp.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\30b59mgq8q-4j0wd6sysx.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\981mpplyw7-hk38avb4md.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\rjb4890ax3-nxcbhwwik4.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\xj0xi5b6t0-kyydgdyfyr.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\80i9320z8i-braqxquf68.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\zdgy80v46x-uon7ajm1uq.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\sgzz6lem90-cvjefgckz0.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\yp0i1lzr75-jeoqv13ut6.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\2hmlp0zbxn-05ahct25bl.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\742cplcx21-v4c8at9csi.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\mmltd8r225-hvbwyjmrs8.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\w186e3hsrc-5zb0t5kin8.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\g3sxc4693n-74k07r54w5.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\mtyna9zt17-h7552vhvqx.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\vwxelux5wi-ftrq6wjw61.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\kl3147cv9v-jifjlufufr.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\61s375iffs-sq4tz5b6z1.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\rjzv8k2bby-ybhl3zwbnt.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\xyr9ol9f0u-3svmjt4680.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\nfqkeb6xkv-jpot9jpkj5.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\7bwnufykcb-dbd2bhel7x.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\afuye3slz2-rltvukiouj.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\n27j4d4whz-t0prl1vtcy.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\1lvstb6p9g-ppsr03es2a.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\q4pwq27ytw-wy5jums86e.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ywhrr5dci9-299lfhw7pp.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\j6dtyaimao-f24vrib8jx.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\9hgb250z64-p7d5474hhi.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\duda6nix3z-i74zcrqwnu.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\j3nlvzwbhe-yulxmnidcm.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\xh13q2cb76-5zv9j4prjq.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\a8fc4r4hmy-5o3vdwrs0h.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\muoxqj19ra-9rfwpussx9.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\s22liaomlw-f12amzzhnv.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\dqcmur53pt-i9t4ieghxc.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\cokk0jhgub-lcxiz9swpj.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ju0cqe9yfk-lovjp4ry9u.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\3k8e67rmqc-4p94qv91sb.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\046ifx24g5-bt5kbwtt2q.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\xj3rvkyehm-9exl2pdlxc.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\0z6ohd1a1r-hs6w0crmb8.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\8z8ubqcor4-feyrix9wnk.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\b793no7dvr-mgmlrnip99.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\hohl7u3bqq-bezvuebgyb.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\4vdmpkc3f1-h1bvebrp9q.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\3rzxkkx1je-vbvoa94qyd.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\a7s41ulqlt-c31e6ki5t6.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\c6vtlvncym-gkw8pk2nfs.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\mlsb23uk02-hnoraonqdd.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\63vrke45or-7ovpwuglye.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\fxpcg350qu-0235kmet0t.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\4dynx8ntpf-pkl1atbv4o.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\n3k99b7cw6-poqayh2loq.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\19dyhf6n9o-mrj85llrkn.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\e0iv40od91-7jck20mja3.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\wo1sc9is4m-uavo4klo8n.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\koza6jgnvq-4hu1bggsrb.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ssjdnihpim-4u956iy9xs.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\r92duke8gh-168l3ir3l5.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\f6c680o494-6ogb7o95po.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\gkce7iqli8-wkx2r4hlx5.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\pc6d2d2efs-0lmjnl1k4v.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\8uhvq6odys-v52dkco62n.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\wmbv051gq9-vindaq3vzr.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\xo8ceq4g5w-fnfmcy5qwo.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\zrlgyk2tle-5viucqhrzb.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\2vly459q60-ezxdrtm1cy.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\lei6vhios8-sbeo5cgk4f.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ima89pdqna-z3rfu42ezs.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\2simf6huak-tjfaynwivk.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\4ldllwialv-5jkvsaamgi.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\0ghdiyv2fd-y4z5f2ryst.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\daw2lpft8h-wx3mlhgh37.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\6cuyqt8oyy-lez6yc2zdy.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\jpahs670d6-web6tml14t.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\gwc7ac6sez-049mmuux44.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\agw76842a4-nj100d0mii.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\0j1d1u1743-hr9irpklmf.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\tu6i9yn60k-bwb1gsuuum.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\d6ful5xvbp-woyz0q4n43.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ez1laf9ct8-lutdxna36i.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\m4iro4ef9w-cdh3feilp7.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\zo2d5po74j-ag66lqh4z1.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\zvpmlzippk-mfwoolo5e7.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\mx766h4lu1-wqqrq62a5z.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\fu6jxfkw64-r93sjcmcpp.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\2wvrkzeodg-bk636y5xe8.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\8d2xdlxaoi-8y40zpzwbu.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\rprf98cbed-fdlc1k76h6.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\4vujwx17md-sau4x1e3uo.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\xv40z1x1pp-r9gqrss8w4.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\aplv222i9w-a5byyp98xa.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\y9b3fyre2z-abaoehaoce.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\qo40x7vu7b-ur8ipki1gz.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\5zofw76knh-cwo81ec6ci.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\td5jy8bv0q-zt60ejpglz.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\sxbet6gmlj-4ulc7x1nyn.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\7v4mdslv1g-2b9fbnajte.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\aibtej0r3n-4ebofpec0s.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\uwnp7tz9y8-nc75aci0ep.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\yn6lfkl5lj-ixw9ayor72.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\5f6c5obw4z-b2y5fj8amb.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\5uwk53bfkn-sm7tsyflya.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\2703esbu03-bau9db3eek.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\t0kea9f5tv-pa42jgat1c.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\64t0jo7mky-89xfpa3nyf.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\rqxad6bpge-ysksr9a5qx.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\iey9u1gexo-krcs59o1ut.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\tcdnyl8mm5-rojolhatvu.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\6u8ty9tgy0-yayv1u0yds.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\cyenj4r4gb-uqvgdix0d2.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\0y2leqpmf7-rk61f49l4l.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\t9g8bfn4so-b975f6mlyp.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\nhr9fh3sj2-bd92z499b7.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\i30zk3hgnx-peuegsc00u.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\doqo5swbcs-j34x46uyaz.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\yokqn15aey-uty6vnwisc.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\yfsbqdopdd-4pnjigfcx2.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ewew5prtru-sw3cc3dvia.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\jgclm4egcu-j34x46uyaz.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\7kpbygxpy0-x5y2yznkg4.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\7o4u2y95i9-3exls7m7zl.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\a2vahsmf36-dblook5b1t.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\gfdv260ltb-lrgc3fda45.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\0zz5us8mqe-ilo7uva0vt.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\5iuhobcdf8-qlccset4i1.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\a6w2eczzwf-lzl9nlhx6b.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\q49h46d4xq-ag7o75518u.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\sgguhelf4n-xjzke54njl.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\wuxzvi2iqv-4cdyficzrp.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\8wca3kg92s-4j0wd6sysx.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\6u9trp0lf4-hk38avb4md.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\jpee5l4tad-nxcbhwwik4.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\2kd0b3bg5b-kyydgdyfyr.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\b3q8nlgog2-braqxquf68.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\bz9vxxx287-uon7ajm1uq.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\1o5r39bw2i-cvjefgckz0.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\5zx84foc9d-jeoqv13ut6.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\7uqujo2qmi-05ahct25bl.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ngnhjkhflc-v4c8at9csi.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\vj5xvnd6dv-hvbwyjmrs8.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\pvsh8vyrsi-5zb0t5kin8.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\2ihx5wm6qz-74k07r54w5.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\u2egndyw22-h7552vhvqx.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\h13l1pfcys-ftrq6wjw61.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\8k7tb9y5sl-jifjlufufr.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\s1edr5z0fu-sq4tz5b6z1.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\6jnmnajh8d-ybhl3zwbnt.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\iawunponkj-3svmjt4680.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\j2u8xmih9i-jpot9jpkj5.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\tm73fqbxt8-dbd2bhel7x.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\uk7t6ndwbi-rltvukiouj.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\7ngm5yad5l-t0prl1vtcy.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\cc2i0agk0k-ppsr03es2a.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\1pngf4awec-wy5jums86e.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\cqn7kgon6n-299lfhw7pp.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\w2dn5jmx70-f24vrib8jx.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\bqli10nl7w-p7d5474hhi.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\yk8ylant48-i74zcrqwnu.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\0nd40f8ccg-yulxmnidcm.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\8o2u4juzve-5zv9j4prjq.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\hwu15naawv-5o3vdwrs0h.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\amq5ou63s9-9rfwpussx9.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\8zm3acn33z-f12amzzhnv.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\sprly4vs03-i9t4ieghxc.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\v5q4b7gif8-lcxiz9swpj.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\j8bll85uej-lovjp4ry9u.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\thxfa6z48f-4p94qv91sb.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\0zbzdvoa85-bt5kbwtt2q.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\flpwh28jhy-9exl2pdlxc.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\j7wa5uwsoq-hs6w0crmb8.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\5gw5cpwfpk-feyrix9wnk.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\gpdjetdmvc-mgmlrnip99.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\obryovlqse-bezvuebgyb.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\b8zi43lzco-h1bvebrp9q.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\fu9hh7iek4-vbvoa94qyd.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\vev6k0bnb8-c31e6ki5t6.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\bqeackxt45-gkw8pk2nfs.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\soyurofevf-hnoraonqdd.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\bet6dq1b2e-7ovpwuglye.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\jj5d96cyeb-0235kmet0t.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\1gcs02qbpv-pkl1atbv4o.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\sml6wea194-poqayh2loq.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\nm3s9bccog-mrj85llrkn.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\hbqgxw4jps-7jck20mja3.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\rxbbh16xuq-uavo4klo8n.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\abzierwm6m-4hu1bggsrb.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\avyziyzd54-4u956iy9xs.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\9tlh80hl8g-168l3ir3l5.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\erj52jmtr7-6ogb7o95po.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\bl9hum95y4-wkx2r4hlx5.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\smmowvgoub-0lmjnl1k4v.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\lu4z3fghay-v52dkco62n.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\bqjri1dx6f-vindaq3vzr.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\x2tiqgdti0-fnfmcy5qwo.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ztbdd43a1x-5viucqhrzb.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ozw1bfrcl5-ezxdrtm1cy.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\b18spha18w-sbeo5cgk4f.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\8nng7xzo25-z3rfu42ezs.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\p2kslreb4h-tjfaynwivk.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\i4o7h4q4dg-5jkvsaamgi.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\qgt32thkwk-y4z5f2ryst.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\epochgv1r6-wx3mlhgh37.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\3wpjapd7fk-lez6yc2zdy.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\13i9hdj98n-web6tml14t.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ficftc90w6-049mmuux44.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\mqby43smka-nj100d0mii.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\vj1ukgprf8-hr9irpklmf.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\52vgygchli-bwb1gsuuum.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\yoahel3xcf-woyz0q4n43.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\yz4grwfla7-lutdxna36i.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\655u49wwgo-cdh3feilp7.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\bllc09dl0p-ag66lqh4z1.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\eui02vdb0w-mfwoolo5e7.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\v3oykms8dw-wqqrq62a5z.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\jw4ubte9td-r93sjcmcpp.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\5zjublbyx1-bk636y5xe8.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\pufh55n6h9-8y40zpzwbu.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ok0jmpdkq7-fdlc1k76h6.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ocxmrx11yh-sau4x1e3uo.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\tlf70z3xof-r9gqrss8w4.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\5qs0zjylkq-a5byyp98xa.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\v9tfhh9uuv-abaoehaoce.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\rru3gqthiq-ur8ipki1gz.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\6nn5lytwoe-cwo81ec6ci.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\9b57zuubf9-zt60ejpglz.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\dti3piss4n-4ulc7x1nyn.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\t9qptdoiw3-2b9fbnajte.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\dwbe0ufkrq-4ebofpec0s.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\7h8nknkm89-nc75aci0ep.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\js2qqyow26-ixw9ayor72.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\10p4eg6rjr-b2y5fj8amb.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\osnclo6bp5-sm7tsyflya.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\kuwg9zjf0a-bau9db3eek.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\jta1g1jhnf-pa42jgat1c.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\pelo3rsyto-89xfpa3nyf.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ckjayfyjgy-ysksr9a5qx.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\mxvux3v5dg-krcs59o1ut.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\a6hcdrcc3k-rojolhatvu.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\foe4pmj7nq-yayv1u0yds.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\dq3901dtyf-uqvgdix0d2.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\3z7jrdkqom-rk61f49l4l.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\89nib41b70-b975f6mlyp.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\mnnjtpnxdu-bd92z499b7.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\bw6pmkgxi1-peuegsc00u.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\kkgcckprsx-j34x46uyaz.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\m7alun1x3b-uty6vnwisc.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\41g45un5q8-4pnjigfcx2.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\1ieum45bg2-sw3cc3dvia.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\delu59b4ib-j34x46uyaz.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\uszkl4bilh-x5y2yznkg4.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\86qy1srb4c-3exls7m7zl.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\ueq17yhxqs-dblook5b1t.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\aax0j7mz82-lrgc3fda45.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\5h5dfhirk2-xzw0cte36n.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\h54j5ermku-7xak538n57.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\dlgv4lzjff-5c5v55ciz3.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\obj\Debug\net9.0\compressed\zfwqi2fxs9-bihemki7jg.gz
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\SendGrid.dll
+C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\bin\Debug\net9.0\StarkbankEcdsa.dll

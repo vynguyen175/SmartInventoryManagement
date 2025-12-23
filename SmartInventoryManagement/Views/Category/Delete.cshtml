@@ -1,0 +1,24 @@
+@model SmartInventoryManagement.Models.Category
+@{
+ViewData["Title"] = "Delete Category";
+}
+
+<h1>Delete Category</h1>
+<p>Are you sure you want to delete the category <strong>@Model.Name</strong>?</p>
+
+<form method="post" asp-action="Delete">
+    <input type="hidden" name="id" value="@Model.Id" />
+    <button type="submit" class="btn btn-danger" onclick="testAjax()">Delete</button>
+    <a href="@Url.Action("Index", "Category")" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    <script>
+        function testAjax() {
+            $.ajax({
+                url: '/Home/TestLoader',
+                method: 'GET'
+            });
+        }
+    </script>
+}

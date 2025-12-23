@@ -1,0 +1,482 @@
+2025-03-22 11:51:04.021 -04:00 [INF] User profile is available. Using 'C:\Users\phant\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-03-22 11:51:04.646 -04:00 [WRN] The foreign key property 'OrderItem.ProductId1' was created in shadow state because a conflicting property with the simple name 'ProductId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2025-03-22 11:51:05.469 -04:00 [INF] Executed DbCommand (63ms) [Parameters=[@__normalizedName_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT a."Id", a."ConcurrencyStamp", a."Name", a."NormalizedName"
+FROM "AspNetRoles" AS a
+WHERE a."NormalizedName" = @__normalizedName_0
+LIMIT 1
+2025-03-22 11:51:05.567 -04:00 [INF] Executed DbCommand (4ms) [Parameters=[@__normalizedName_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT a."Id", a."ConcurrencyStamp", a."Name", a."NormalizedName"
+FROM "AspNetRoles" AS a
+WHERE a."NormalizedName" = @__normalizedName_0
+LIMIT 1
+2025-03-22 11:51:05.583 -04:00 [INF] Executed DbCommand (3ms) [Parameters=[@__normalizedEmail_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT a."Id", a."AccessFailedCount", a."ConcurrencyStamp", a."ContactInformation", a."Email", a."EmailConfirmed", a."FullName", a."LockoutEnabled", a."LockoutEnd", a."NormalizedEmail", a."NormalizedUserName", a."PasswordHash", a."PhoneNumber", a."PhoneNumberConfirmed", a."SecurityAnswer", a."SecurityQuestion", a."SecurityStamp", a."TwoFactorEnabled", a."UserName"
+FROM "AspNetUsers" AS a
+WHERE a."NormalizedEmail" = @__normalizedEmail_0
+LIMIT 2
+2025-03-22 11:51:05.664 -04:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT a."Id", a."AccessFailedCount", a."ConcurrencyStamp", a."ContactInformation", a."Email", a."EmailConfirmed", a."FullName", a."LockoutEnabled", a."LockoutEnd", a."NormalizedEmail", a."NormalizedUserName", a."PasswordHash", a."PhoneNumber", a."PhoneNumberConfirmed", a."SecurityAnswer", a."SecurityQuestion", a."SecurityStamp", a."TwoFactorEnabled", a."UserName"
+FROM "AspNetUsers" AS a
+WHERE a."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+2025-03-22 11:51:05.841 -04:00 [ERR] Failed executing DbCommand (16ms) [Parameters=[@p0='?', @p1='?' (DbType = Int32), @p2='?', @p3='?', @p4='?', @p5='?' (DbType = Boolean), @p6='?', @p7='?' (DbType = Boolean), @p8='?' (DbType = DateTime), @p9='?', @p10='?', @p11='?', @p12='?', @p13='?' (DbType = Boolean), @p14='?', @p15='?', @p16='?', @p17='?' (DbType = Boolean), @p18='?'], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "AspNetUsers" ("Id", "AccessFailedCount", "ConcurrencyStamp", "ContactInformation", "Email", "EmailConfirmed", "FullName", "LockoutEnabled", "LockoutEnd", "NormalizedEmail", "NormalizedUserName", "PasswordHash", "PhoneNumber", "PhoneNumberConfirmed", "SecurityAnswer", "SecurityQuestion", "SecurityStamp", "TwoFactorEnabled", "UserName")
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15, @p16, @p17, @p18);
+2025-03-22 11:51:05.865 -04:00 [ERR] An exception occurred in the database while saving changes for context type 'SmartInventoryManagement.Data.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23502: null value in column "ContactInformation" of relation "AspNetUsers" violates not-null constraint
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23502
+    MessageText: null value in column "ContactInformation" of relation "AspNetUsers" violates not-null constraint
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: AspNetUsers
+    ColumnName: ContactInformation
+    File: execMain.c
+    Line: 1993
+    Routine: ExecConstraints
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23502: null value in column "ContactInformation" of relation "AspNetUsers" violates not-null constraint
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23502
+    MessageText: null value in column "ContactInformation" of relation "AspNetUsers" violates not-null constraint
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: AspNetUsers
+    ColumnName: ContactInformation
+    File: execMain.c
+    Line: 1993
+    Routine: ExecConstraints
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2025-03-22 11:51:05.880 -04:00 [ERR] An error occurred while seeding roles and users: Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23502: null value in column "ContactInformation" of relation "AspNetUsers" violates not-null constraint
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23502
+    MessageText: null value in column "ContactInformation" of relation "AspNetUsers" violates not-null constraint
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: AspNetUsers
+    ColumnName: ContactInformation
+    File: execMain.c
+    Line: 1993
+    Routine: ExecConstraints
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Identity.EntityFrameworkCore.UserStore`9.CreateAsync(TUser user, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Identity.UserManager`1.CreateAsync(TUser user)
+   at Microsoft.AspNetCore.Identity.UserManager`1.CreateAsync(TUser user, String password)
+   at Program.<Main>$(String[] args) in C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\Program.cs:line 59
+2025-03-22 11:51:06.095 -04:00 [INF] Now listening on: http://localhost:5153
+2025-03-22 11:51:06.099 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-22 11:51:06.100 -04:00 [INF] Hosting environment: Development
+2025-03-22 11:51:06.100 -04:00 [INF] Content root path: C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement
+2025-03-22 11:51:06.292 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5153/ - null null
+2025-03-22 11:51:06.299 -04:00 [WRN] Failed to determine the https port for redirect.
+2025-03-22 11:51:06.327 -04:00 [INF] Executing endpoint 'SmartInventoryManagement.Controllers.HomeController.Index (SmartInventoryManagement)'
+2025-03-22 11:51:06.339 -04:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller SmartInventoryManagement.Controllers.HomeController (SmartInventoryManagement).
+2025-03-22 11:51:06.347 -04:00 [INF] Executing action method SmartInventoryManagement.Controllers.HomeController.Index (SmartInventoryManagement) - Validation state: "Valid"
+2025-03-22 11:51:06.353 -04:00 [INF] Executed action method SmartInventoryManagement.Controllers.HomeController.Index (SmartInventoryManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.5551ms.
+2025-03-22 11:51:06.367 -04:00 [INF] Executing ViewResult, running view Index.
+2025-03-22 11:51:06.541 -04:00 [INF] Executed ViewResult - view Index executed in 174.2889ms.
+2025-03-22 11:51:06.544 -04:00 [INF] Executed action SmartInventoryManagement.Controllers.HomeController.Index (SmartInventoryManagement) in 203.5618ms
+2025-03-22 11:51:06.545 -04:00 [INF] Executed endpoint 'SmartInventoryManagement.Controllers.HomeController.Index (SmartInventoryManagement)'
+2025-03-22 11:51:06.549 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5153/ - 200 null text/html; charset=utf-8 258.2883ms
+2025-03-22 11:51:06.619 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5153/lib/jquery/dist/jquery.min.js - null null
+2025-03-22 11:51:06.619 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5153/css/site.css?v=MpOrlyhukcJCKcW4KiDbgo-n-gqhESnVL-VGHccBT1k - null null
+2025-03-22 11:51:06.619 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5153/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2025-03-22 11:51:06.619 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5153/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2025-03-22 11:51:06.620 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5153/img/logo.png - null null
+2025-03-22 11:51:06.622 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5153/js/site.js?v=KsxKYRs3Cfw-m4T8EK5p-v0v2jOAEjsmQRn1ZKXW1ck - null null
+2025-03-22 11:51:06.663 -04:00 [INF] Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\wwwroot\css\site.css'
+2025-03-22 11:51:06.669 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5153/css/site.css?v=MpOrlyhukcJCKcW4KiDbgo-n-gqhESnVL-VGHccBT1k - 200 1893 text/css 50.7862ms
+2025-03-22 11:51:06.672 -04:00 [INF] Sending file. Request path: '/js/site.js'. Physical path: 'C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\wwwroot\js\site.js'
+2025-03-22 11:51:06.673 -04:00 [INF] Sending file. Request path: '/img/logo.png'. Physical path: 'C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\wwwroot\img\logo.png'
+2025-03-22 11:51:06.677 -04:00 [INF] Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.min.css'. Physical path: 'C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css'
+2025-03-22 11:51:06.681 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5153/lib/bootstrap/dist/css/bootstrap.min.css - 200 232808 text/css 62.2256ms
+2025-03-22 11:51:06.681 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5153/img/logo.png - 200 15608 image/png 60.5078ms
+2025-03-22 11:51:06.681 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5153/js/site.js?v=KsxKYRs3Cfw-m4T8EK5p-v0v2jOAEjsmQRn1ZKXW1ck - 200 2330 text/javascript 59.1078ms
+2025-03-22 11:51:06.685 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5153/css/site.css - null null
+2025-03-22 11:51:06.688 -04:00 [INF] Sending file. Request path: '/css/site.css'. Physical path: 'C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\wwwroot\css\site.css'
+2025-03-22 11:51:06.689 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5153/css/site.css - 200 1893 text/css 4.2474ms
+2025-03-22 11:51:06.754 -04:00 [INF] Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.bundle.min.js'. Physical path: 'C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js'
+2025-03-22 11:51:06.756 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5153/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 200 80727 text/javascript 136.3465ms
+2025-03-22 11:51:06.770 -04:00 [INF] Sending file. Request path: '/lib/jquery/dist/jquery.min.js'. Physical path: 'C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\wwwroot\lib\jquery\dist\jquery.min.js'
+2025-03-22 11:51:06.772 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5153/lib/jquery/dist/jquery.min.js - 200 87535 text/javascript 153.0918ms
+2025-03-22 11:51:06.923 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5153/img/Loader.gif - null null
+2025-03-22 11:51:06.929 -04:00 [INF] Sending file. Request path: '/img/Loader.gif'. Physical path: 'C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\wwwroot\img\Loader.gif'
+2025-03-22 11:51:06.931 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5153/img/Loader.gif - 200 8130 image/gif 8.0924ms
+2025-03-22 11:51:06.955 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5153/img/background.jpg - null null
+2025-03-22 11:51:07.001 -04:00 [INF] Sending file. Request path: '/img/background.jpg'. Physical path: 'C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\wwwroot\img\background.jpg'
+2025-03-22 11:51:07.002 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5153/img/background.jpg - 200 3655413 image/jpeg 47.116ms
+2025-03-22 11:51:08.793 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5153/Account/Login - null null
+2025-03-22 11:51:08.802 -04:00 [INF] Executing endpoint 'SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement)'
+2025-03-22 11:51:08.808 -04:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login() on controller SmartInventoryManagement.Controllers.AccountController (SmartInventoryManagement).
+2025-03-22 11:51:08.821 -04:00 [INF] Executing action method SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement) - Validation state: "Valid"
+2025-03-22 11:51:08.823 -04:00 [INF] Executed action method SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.3152ms.
+2025-03-22 11:51:08.829 -04:00 [INF] Executing ViewResult, running view Login.
+2025-03-22 11:51:08.850 -04:00 [INF] Executed ViewResult - view Login executed in 22.993ms.
+2025-03-22 11:51:08.852 -04:00 [INF] Executed action SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement) in 38.2953ms
+2025-03-22 11:51:08.854 -04:00 [INF] Executed endpoint 'SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement)'
+2025-03-22 11:51:08.858 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5153/Account/Login - 200 null text/html; charset=utf-8 64.7378ms
+2025-03-22 11:51:11.230 -04:00 [INF] Request starting HTTP/1.1 POST http://localhost:5153/Account/Login - application/x-www-form-urlencoded 240
+2025-03-22 11:51:11.249 -04:00 [INF] Executing endpoint 'SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement)'
+2025-03-22 11:51:11.284 -04:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(SmartInventoryManagement.Models.LoginViewModel) on controller SmartInventoryManagement.Controllers.AccountController (SmartInventoryManagement).
+2025-03-22 11:51:11.372 -04:00 [INF] Executing action method SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement) - Validation state: "Valid"
+2025-03-22 11:51:11.505 -04:00 [INF] Executed DbCommand (2ms) [Parameters=[@__normalizedUserName_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT a."Id", a."AccessFailedCount", a."ConcurrencyStamp", a."ContactInformation", a."Email", a."EmailConfirmed", a."FullName", a."LockoutEnabled", a."LockoutEnd", a."NormalizedEmail", a."NormalizedUserName", a."PasswordHash", a."PhoneNumber", a."PhoneNumberConfirmed", a."SecurityAnswer", a."SecurityQuestion", a."SecurityStamp", a."TwoFactorEnabled", a."UserName"
+FROM "AspNetUsers" AS a
+WHERE a."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+2025-03-22 11:51:11.686 -04:00 [INF] Executed action method SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 309.8737ms.
+2025-03-22 11:51:11.701 -04:00 [INF] Executing ViewResult, running view Login.
+2025-03-22 11:51:11.709 -04:00 [INF] Executed ViewResult - view Login executed in 8.391ms.
+2025-03-22 11:51:11.719 -04:00 [INF] Executed action SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement) in 430.5743ms
+2025-03-22 11:51:11.726 -04:00 [INF] Executed endpoint 'SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement)'
+2025-03-22 11:51:11.751 -04:00 [INF] Request finished HTTP/1.1 POST http://localhost:5153/Account/Login - 200 null text/html; charset=utf-8 521.6319ms
+2025-03-22 11:51:21.271 -04:00 [INF] Request starting HTTP/1.1 POST http://localhost:5153/Account/Login - application/x-www-form-urlencoded 240
+2025-03-22 11:51:21.274 -04:00 [INF] Executing endpoint 'SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement)'
+2025-03-22 11:51:21.275 -04:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(SmartInventoryManagement.Models.LoginViewModel) on controller SmartInventoryManagement.Controllers.AccountController (SmartInventoryManagement).
+2025-03-22 11:51:21.291 -04:00 [INF] Executing action method SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement) - Validation state: "Valid"
+2025-03-22 11:51:21.319 -04:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT a."Id", a."AccessFailedCount", a."ConcurrencyStamp", a."ContactInformation", a."Email", a."EmailConfirmed", a."FullName", a."LockoutEnabled", a."LockoutEnd", a."NormalizedEmail", a."NormalizedUserName", a."PasswordHash", a."PhoneNumber", a."PhoneNumberConfirmed", a."SecurityAnswer", a."SecurityQuestion", a."SecurityStamp", a."TwoFactorEnabled", a."UserName"
+FROM "AspNetUsers" AS a
+WHERE a."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+2025-03-22 11:51:21.616 -04:00 [INF] Executed DbCommand (2ms) [Parameters=[@__user_Id_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT a."Id", a."ClaimType", a."ClaimValue", a."UserId"
+FROM "AspNetUserClaims" AS a
+WHERE a."UserId" = @__user_Id_0
+2025-03-22 11:51:21.678 -04:00 [INF] Executed DbCommand (5ms) [Parameters=[@__userId_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT a0."Name"
+FROM "AspNetUserRoles" AS a
+INNER JOIN "AspNetRoles" AS a0 ON a."RoleId" = a0."Id"
+WHERE a."UserId" = @__userId_0
+2025-03-22 11:51:21.687 -04:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedName_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT a."Id", a."ConcurrencyStamp", a."Name", a."NormalizedName"
+FROM "AspNetRoles" AS a
+WHERE a."NormalizedName" = @__normalizedName_0
+LIMIT 1
+2025-03-22 11:51:21.708 -04:00 [INF] Executed DbCommand (3ms) [Parameters=[@__role_Id_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT a."ClaimType", a."ClaimValue"
+FROM "AspNetRoleClaims" AS a
+WHERE a."RoleId" = @__role_Id_0
+2025-03-22 11:51:21.725 -04:00 [INF] AuthenticationScheme: Identity.Application signed in.
+2025-03-22 11:51:21.730 -04:00 [INF] Executed action method SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement), returned result Microsoft.AspNetCore.Mvc.RedirectToActionResult in 438.0333ms.
+2025-03-22 11:51:21.734 -04:00 [INF] Executing RedirectResult, redirecting to /.
+2025-03-22 11:51:21.736 -04:00 [INF] Executed action SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement) in 458.3521ms
+2025-03-22 11:51:21.737 -04:00 [INF] Executed endpoint 'SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement)'
+2025-03-22 11:51:21.739 -04:00 [INF] Request finished HTTP/1.1 POST http://localhost:5153/Account/Login - 302 0 null 467.4286ms
+2025-03-22 11:51:21.744 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5153/ - null null
+2025-03-22 11:51:21.753 -04:00 [INF] Executing endpoint 'SmartInventoryManagement.Controllers.HomeController.Index (SmartInventoryManagement)'
+2025-03-22 11:51:21.754 -04:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller SmartInventoryManagement.Controllers.HomeController (SmartInventoryManagement).
+2025-03-22 11:51:21.757 -04:00 [INF] Executing action method SmartInventoryManagement.Controllers.HomeController.Index (SmartInventoryManagement) - Validation state: "Valid"
+2025-03-22 11:51:21.758 -04:00 [INF] Executed action method SmartInventoryManagement.Controllers.HomeController.Index (SmartInventoryManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.023ms.
+2025-03-22 11:51:21.762 -04:00 [INF] Executing ViewResult, running view Index.
+2025-03-22 11:51:21.767 -04:00 [INF] Executed ViewResult - view Index executed in 5.9094ms.
+2025-03-22 11:51:21.769 -04:00 [INF] Executed action SmartInventoryManagement.Controllers.HomeController.Index (SmartInventoryManagement) in 12.5834ms
+2025-03-22 11:51:21.771 -04:00 [INF] Executed endpoint 'SmartInventoryManagement.Controllers.HomeController.Index (SmartInventoryManagement)'
+2025-03-22 11:51:21.773 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5153/ - 200 null text/html; charset=utf-8 29.4096ms
+2025-03-22 11:51:25.881 -04:00 [INF] Request starting HTTP/1.1 POST http://localhost:5153/Account/Logout - application/x-www-form-urlencoded 225
+2025-03-22 11:51:25.889 -04:00 [INF] Executing endpoint 'SmartInventoryManagement.Controllers.AccountController.Logout (SmartInventoryManagement)'
+2025-03-22 11:51:25.900 -04:00 [INF] Route matched with {action = "Logout", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Logout() on controller SmartInventoryManagement.Controllers.AccountController (SmartInventoryManagement).
+2025-03-22 11:51:25.906 -04:00 [INF] Executing action method SmartInventoryManagement.Controllers.AccountController.Logout (SmartInventoryManagement) - Validation state: "Valid"
+2025-03-22 11:51:25.914 -04:00 [INF] AuthenticationScheme: Identity.Application signed out.
+2025-03-22 11:51:25.920 -04:00 [INF] AuthenticationScheme: Identity.External signed out.
+2025-03-22 11:51:25.922 -04:00 [INF] AuthenticationScheme: Identity.TwoFactorUserId signed out.
+2025-03-22 11:51:25.925 -04:00 [INF] Executed action method SmartInventoryManagement.Controllers.AccountController.Logout (SmartInventoryManagement), returned result Microsoft.AspNetCore.Mvc.RedirectToActionResult in 16.854ms.
+2025-03-22 11:51:25.930 -04:00 [INF] Executing RedirectResult, redirecting to /.
+2025-03-22 11:51:25.932 -04:00 [INF] Executed action SmartInventoryManagement.Controllers.AccountController.Logout (SmartInventoryManagement) in 27.0665ms
+2025-03-22 11:51:25.935 -04:00 [INF] Executed endpoint 'SmartInventoryManagement.Controllers.AccountController.Logout (SmartInventoryManagement)'
+2025-03-22 11:51:25.937 -04:00 [INF] Request finished HTTP/1.1 POST http://localhost:5153/Account/Logout - 302 0 null 55.3636ms
+2025-03-22 11:51:25.945 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5153/ - null null
+2025-03-22 11:51:25.951 -04:00 [INF] Executing endpoint 'SmartInventoryManagement.Controllers.HomeController.Index (SmartInventoryManagement)'
+2025-03-22 11:51:25.953 -04:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller SmartInventoryManagement.Controllers.HomeController (SmartInventoryManagement).
+2025-03-22 11:51:25.957 -04:00 [INF] Executing action method SmartInventoryManagement.Controllers.HomeController.Index (SmartInventoryManagement) - Validation state: "Valid"
+2025-03-22 11:51:25.960 -04:00 [INF] Executed action method SmartInventoryManagement.Controllers.HomeController.Index (SmartInventoryManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0437ms.
+2025-03-22 11:51:25.964 -04:00 [INF] Executing ViewResult, running view Index.
+2025-03-22 11:51:25.970 -04:00 [INF] Executed ViewResult - view Index executed in 5.6113ms.
+2025-03-22 11:51:25.974 -04:00 [INF] Executed action SmartInventoryManagement.Controllers.HomeController.Index (SmartInventoryManagement) in 17.1152ms
+2025-03-22 11:51:25.977 -04:00 [INF] Executed endpoint 'SmartInventoryManagement.Controllers.HomeController.Index (SmartInventoryManagement)'
+2025-03-22 11:51:25.979 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5153/ - 200 null text/html; charset=utf-8 34.7826ms
+2025-03-22 11:51:28.189 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5153/Account/Login - null null
+2025-03-22 11:51:28.197 -04:00 [INF] Executing endpoint 'SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement)'
+2025-03-22 11:51:28.199 -04:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login() on controller SmartInventoryManagement.Controllers.AccountController (SmartInventoryManagement).
+2025-03-22 11:51:28.204 -04:00 [INF] Executing action method SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement) - Validation state: "Valid"
+2025-03-22 11:51:28.206 -04:00 [INF] Executed action method SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0295ms.
+2025-03-22 11:51:28.210 -04:00 [INF] Executing ViewResult, running view Login.
+2025-03-22 11:51:28.216 -04:00 [INF] Executed ViewResult - view Login executed in 5.7292ms.
+2025-03-22 11:51:28.219 -04:00 [INF] Executed action SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement) in 16.0725ms
+2025-03-22 11:51:28.222 -04:00 [INF] Executed endpoint 'SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement)'
+2025-03-22 11:51:28.225 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5153/Account/Login - 200 null text/html; charset=utf-8 35.1342ms
+2025-03-22 11:51:29.415 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5153/Account/ForgotPW - null null
+2025-03-22 11:51:29.421 -04:00 [INF] Executing endpoint 'SmartInventoryManagement.Controllers.AccountController.ForgotPW (SmartInventoryManagement)'
+2025-03-22 11:51:29.429 -04:00 [INF] Route matched with {action = "ForgotPW", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult ForgotPW() on controller SmartInventoryManagement.Controllers.AccountController (SmartInventoryManagement).
+2025-03-22 11:51:29.434 -04:00 [INF] Executing action method SmartInventoryManagement.Controllers.AccountController.ForgotPW (SmartInventoryManagement) - Validation state: "Valid"
+2025-03-22 11:51:29.466 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5153/Account/ForgotPW - null null
+2025-03-22 11:51:29.470 -04:00 [INF] Executing endpoint 'SmartInventoryManagement.Controllers.AccountController.ForgotPW (SmartInventoryManagement)'
+2025-03-22 11:51:29.471 -04:00 [INF] Route matched with {action = "ForgotPW", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult ForgotPW() on controller SmartInventoryManagement.Controllers.AccountController (SmartInventoryManagement).
+2025-03-22 11:51:29.473 -04:00 [INF] Executing action method SmartInventoryManagement.Controllers.AccountController.ForgotPW (SmartInventoryManagement) - Validation state: "Valid"
+2025-03-22 11:51:29.519 -04:00 [INF] Executed action method SmartInventoryManagement.Controllers.AccountController.ForgotPW (SmartInventoryManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 81.0563ms.
+2025-03-22 11:51:29.519 -04:00 [INF] Executed action method SmartInventoryManagement.Controllers.AccountController.ForgotPW (SmartInventoryManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 45.0216ms.
+2025-03-22 11:51:29.526 -04:00 [INF] Executing ViewResult, running view ForgotPW.
+2025-03-22 11:51:29.526 -04:00 [INF] Executing ViewResult, running view ForgotPW.
+2025-03-22 11:51:29.629 -04:00 [INF] Executed ViewResult - view ForgotPW executed in 105.0521ms.
+2025-03-22 11:51:29.629 -04:00 [INF] Executed ViewResult - view ForgotPW executed in 103.4238ms.
+2025-03-22 11:51:29.632 -04:00 [INF] Executed action SmartInventoryManagement.Controllers.AccountController.ForgotPW (SmartInventoryManagement) in 198.792ms
+2025-03-22 11:51:29.635 -04:00 [INF] Executed action SmartInventoryManagement.Controllers.AccountController.ForgotPW (SmartInventoryManagement) in 162.4897ms
+2025-03-22 11:51:29.638 -04:00 [INF] Executed endpoint 'SmartInventoryManagement.Controllers.AccountController.ForgotPW (SmartInventoryManagement)'
+2025-03-22 11:51:29.640 -04:00 [INF] Executed endpoint 'SmartInventoryManagement.Controllers.AccountController.ForgotPW (SmartInventoryManagement)'
+2025-03-22 11:51:29.641 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5153/Account/ForgotPW - 200 null text/html; charset=utf-8 225.6313ms
+2025-03-22 11:51:29.642 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5153/Account/ForgotPW - 200 null text/html; charset=utf-8 176.4216ms
+2025-03-22 11:51:29.661 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5153/lib/jquery-validation/dist/jquery.validate.min.js - null null
+2025-03-22 11:51:29.666 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5153/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js - null null
+2025-03-22 11:51:29.667 -04:00 [INF] The file /lib/jquery-validation/dist/jquery.validate.min.js was not modified
+2025-03-22 11:51:29.671 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5153/lib/jquery-validation/dist/jquery.validate.min.js - 304 null text/javascript 9.582ms
+2025-03-22 11:51:29.694 -04:00 [INF] Executing endpoint 'SmartInventoryManagement.Controllers.ErrorController.NotFoundPage (SmartInventoryManagement)'
+2025-03-22 11:51:29.698 -04:00 [INF] Route matched with {action = "NotFoundPage", controller = "Error"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult NotFoundPage() on controller SmartInventoryManagement.Controllers.ErrorController (SmartInventoryManagement).
+2025-03-22 11:51:29.701 -04:00 [INF] Executing action method SmartInventoryManagement.Controllers.ErrorController.NotFoundPage (SmartInventoryManagement) - Validation state: "Valid"
+2025-03-22 11:51:29.703 -04:00 [INF] Executed action method SmartInventoryManagement.Controllers.ErrorController.NotFoundPage (SmartInventoryManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.5501ms.
+2025-03-22 11:51:29.706 -04:00 [INF] Executing ViewResult, running view 404.
+2025-03-22 11:51:29.714 -04:00 [INF] Executed ViewResult - view 404 executed in 9.8134ms.
+2025-03-22 11:51:29.716 -04:00 [INF] Executed action SmartInventoryManagement.Controllers.ErrorController.NotFoundPage (SmartInventoryManagement) in 16.2732ms
+2025-03-22 11:51:29.718 -04:00 [INF] Executed endpoint 'SmartInventoryManagement.Controllers.ErrorController.NotFoundPage (SmartInventoryManagement)'
+2025-03-22 11:51:29.720 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5153/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js - 404 null text/html; charset=utf-8 53.8006ms
+2025-03-22 11:51:29.725 -04:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5153/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js, Response status code: 404
+2025-03-22 11:51:43.205 -04:00 [INF] Request starting HTTP/1.1 POST http://localhost:5153/Account/ForgotPassword - application/x-www-form-urlencoded 298
+2025-03-22 11:51:43.211 -04:00 [INF] Executing endpoint 'SmartInventoryManagement.Controllers.AccountController.ForgotPassword (SmartInventoryManagement)'
+2025-03-22 11:51:43.225 -04:00 [INF] Route matched with {action = "ForgotPassword", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] ForgotPassword(SmartInventoryManagement.Models.ForgotPWView) on controller SmartInventoryManagement.Controllers.AccountController (SmartInventoryManagement).
+2025-03-22 11:51:43.236 -04:00 [INF] Executing action method SmartInventoryManagement.Controllers.AccountController.ForgotPassword (SmartInventoryManagement) - Validation state: "Valid"
+2025-03-22 11:51:43.245 -04:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedEmail_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT a."Id", a."AccessFailedCount", a."ConcurrencyStamp", a."ContactInformation", a."Email", a."EmailConfirmed", a."FullName", a."LockoutEnabled", a."LockoutEnd", a."NormalizedEmail", a."NormalizedUserName", a."PasswordHash", a."PhoneNumber", a."PhoneNumberConfirmed", a."SecurityAnswer", a."SecurityQuestion", a."SecurityStamp", a."TwoFactorEnabled", a."UserName"
+FROM "AspNetUsers" AS a
+WHERE a."NormalizedEmail" = @__normalizedEmail_0
+LIMIT 2
+2025-03-22 11:51:43.250 -04:00 [INF] Executed action method SmartInventoryManagement.Controllers.AccountController.ForgotPassword (SmartInventoryManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 10.6256ms.
+2025-03-22 11:51:43.252 -04:00 [INF] Executing ViewResult, running view ForgotPassword.
+2025-03-22 11:51:43.257 -04:00 [ERR] The view 'ForgotPassword' was not found. Searched locations: ["/Views/Account/ForgotPassword.cshtml","/Views/Shared/ForgotPassword.cshtml","/Pages/Shared/ForgotPassword.cshtml"]
+2025-03-22 11:51:43.268 -04:00 [INF] Executed action SmartInventoryManagement.Controllers.AccountController.ForgotPassword (SmartInventoryManagement) in 37.2824ms
+2025-03-22 11:51:43.269 -04:00 [INF] Executed endpoint 'SmartInventoryManagement.Controllers.AccountController.ForgotPassword (SmartInventoryManagement)'
+2025-03-22 11:51:43.272 -04:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The view 'ForgotPassword' was not found. The following locations were searched:
+/Views/Account/ForgotPassword.cshtml
+/Views/Shared/ForgotPassword.cshtml
+/Pages/Shared/ForgotPassword.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeResultAsync>g__Logged|22_0(ResourceInvoker invoker, IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.StatusCodePagesMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddlewareImpl.<Invoke>g__Awaited|10_0(ExceptionHandlerMiddlewareImpl middleware, HttpContext context, Task task)
+2025-03-22 11:51:43.289 -04:00 [INF] Executing endpoint 'SmartInventoryManagement.Controllers.ErrorController.InternalServerError (SmartInventoryManagement)'
+2025-03-22 11:51:43.292 -04:00 [INF] Route matched with {action = "InternalServerError", controller = "Error"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult InternalServerError() on controller SmartInventoryManagement.Controllers.ErrorController (SmartInventoryManagement).
+2025-03-22 11:51:43.295 -04:00 [INF] Executing action method SmartInventoryManagement.Controllers.ErrorController.InternalServerError (SmartInventoryManagement) - Validation state: "Valid"
+2025-03-22 11:51:43.297 -04:00 [INF] Executed action method SmartInventoryManagement.Controllers.ErrorController.InternalServerError (SmartInventoryManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.7799ms.
+2025-03-22 11:51:43.302 -04:00 [INF] Executing ViewResult, running view 500.
+2025-03-22 11:51:43.309 -04:00 [INF] Executed ViewResult - view 500 executed in 9.0403ms.
+2025-03-22 11:51:43.311 -04:00 [INF] Executed action SmartInventoryManagement.Controllers.ErrorController.InternalServerError (SmartInventoryManagement) in 16.4685ms
+2025-03-22 11:51:43.313 -04:00 [INF] Executed endpoint 'SmartInventoryManagement.Controllers.ErrorController.InternalServerError (SmartInventoryManagement)'
+2025-03-22 11:51:43.317 -04:00 [INF] Request finished HTTP/1.1 POST http://localhost:5153/Account/ForgotPassword - 500 null text/html; charset=utf-8 112.242ms
+2025-03-22 11:51:44.771 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5153/ - null null
+2025-03-22 11:51:44.774 -04:00 [INF] Executing endpoint 'SmartInventoryManagement.Controllers.HomeController.Index (SmartInventoryManagement)'
+2025-03-22 11:51:44.777 -04:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller SmartInventoryManagement.Controllers.HomeController (SmartInventoryManagement).
+2025-03-22 11:51:44.781 -04:00 [INF] Executing action method SmartInventoryManagement.Controllers.HomeController.Index (SmartInventoryManagement) - Validation state: "Valid"
+2025-03-22 11:51:44.784 -04:00 [INF] Executed action method SmartInventoryManagement.Controllers.HomeController.Index (SmartInventoryManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0547ms.
+2025-03-22 11:51:44.787 -04:00 [INF] Executing ViewResult, running view Index.
+2025-03-22 11:51:44.790 -04:00 [INF] Executed ViewResult - view Index executed in 2.9226ms.
+2025-03-22 11:51:44.792 -04:00 [INF] Executed action SmartInventoryManagement.Controllers.HomeController.Index (SmartInventoryManagement) in 11.2277ms
+2025-03-22 11:51:44.795 -04:00 [INF] Executed endpoint 'SmartInventoryManagement.Controllers.HomeController.Index (SmartInventoryManagement)'
+2025-03-22 11:51:44.797 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5153/ - 200 null text/html; charset=utf-8 26.0615ms
+2025-03-22 11:51:46.320 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5153/Account/Login - null null
+2025-03-22 11:51:46.325 -04:00 [INF] Executing endpoint 'SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement)'
+2025-03-22 11:51:46.327 -04:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login() on controller SmartInventoryManagement.Controllers.AccountController (SmartInventoryManagement).
+2025-03-22 11:51:46.331 -04:00 [INF] Executing action method SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement) - Validation state: "Valid"
+2025-03-22 11:51:46.335 -04:00 [INF] Executed action method SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0408ms.
+2025-03-22 11:51:46.339 -04:00 [INF] Executing ViewResult, running view Login.
+2025-03-22 11:51:46.342 -04:00 [INF] Executed ViewResult - view Login executed in 3.8547ms.
+2025-03-22 11:51:46.345 -04:00 [INF] Executed action SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement) in 14.4662ms
+2025-03-22 11:51:46.349 -04:00 [INF] Executed endpoint 'SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement)'
+2025-03-22 11:51:46.351 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5153/Account/Login - 200 null text/html; charset=utf-8 31.2266ms
+2025-03-22 11:51:56.291 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5153/Account/Login - null null
+2025-03-22 11:51:56.296 -04:00 [INF] Executing endpoint 'SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement)'
+2025-03-22 11:51:56.299 -04:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login() on controller SmartInventoryManagement.Controllers.AccountController (SmartInventoryManagement).
+2025-03-22 11:51:56.303 -04:00 [INF] Executing action method SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement) - Validation state: "Valid"
+2025-03-22 11:51:56.305 -04:00 [INF] Executed action method SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0313ms.
+2025-03-22 11:51:56.309 -04:00 [INF] Executing ViewResult, running view Login.
+2025-03-22 11:51:56.313 -04:00 [INF] Executed ViewResult - view Login executed in 3.57ms.
+2025-03-22 11:51:56.316 -04:00 [INF] Executed action SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement) in 13.3312ms
+2025-03-22 11:51:56.318 -04:00 [INF] Executed endpoint 'SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement)'
+2025-03-22 11:51:56.321 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5153/Account/Login - 200 null text/html; charset=utf-8 29.892ms
+2025-03-22 11:52:17.270 -04:00 [INF] Request starting HTTP/1.1 POST http://localhost:5153/Account/Login - application/x-www-form-urlencoded 235
+2025-03-22 11:52:17.279 -04:00 [INF] Executing endpoint 'SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement)'
+2025-03-22 11:52:17.283 -04:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(SmartInventoryManagement.Models.LoginViewModel) on controller SmartInventoryManagement.Controllers.AccountController (SmartInventoryManagement).
+2025-03-22 11:52:17.290 -04:00 [INF] Executing action method SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement) - Validation state: "Valid"
+2025-03-22 11:52:17.300 -04:00 [INF] Executed DbCommand (2ms) [Parameters=[@__normalizedUserName_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT a."Id", a."AccessFailedCount", a."ConcurrencyStamp", a."ContactInformation", a."Email", a."EmailConfirmed", a."FullName", a."LockoutEnabled", a."LockoutEnd", a."NormalizedEmail", a."NormalizedUserName", a."PasswordHash", a."PhoneNumber", a."PhoneNumberConfirmed", a."SecurityAnswer", a."SecurityQuestion", a."SecurityStamp", a."TwoFactorEnabled", a."UserName"
+FROM "AspNetUsers" AS a
+WHERE a."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+2025-03-22 11:52:17.384 -04:00 [INF] Executed action method SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 90.7949ms.
+2025-03-22 11:52:17.386 -04:00 [INF] Executing ViewResult, running view Login.
+2025-03-22 11:52:17.387 -04:00 [INF] Executed ViewResult - view Login executed in 1.5154ms.
+2025-03-22 11:52:17.395 -04:00 [INF] Executed action SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement) in 107.3ms
+2025-03-22 11:52:17.398 -04:00 [INF] Executed endpoint 'SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement)'
+2025-03-22 11:52:17.406 -04:00 [INF] Request finished HTTP/1.1 POST http://localhost:5153/Account/Login - 200 null text/html; charset=utf-8 135.7968ms
+2025-03-22 11:53:33.766 -04:00 [INF] Request starting HTTP/1.1 POST http://localhost:5153/Account/Login - application/x-www-form-urlencoded 236
+2025-03-22 11:53:33.773 -04:00 [INF] Executing endpoint 'SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement)'
+2025-03-22 11:53:33.776 -04:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(SmartInventoryManagement.Models.LoginViewModel) on controller SmartInventoryManagement.Controllers.AccountController (SmartInventoryManagement).
+2025-03-22 11:53:33.780 -04:00 [INF] Executing action method SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement) - Validation state: "Valid"
+2025-03-22 11:53:33.784 -04:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT a."Id", a."AccessFailedCount", a."ConcurrencyStamp", a."ContactInformation", a."Email", a."EmailConfirmed", a."FullName", a."LockoutEnabled", a."LockoutEnd", a."NormalizedEmail", a."NormalizedUserName", a."PasswordHash", a."PhoneNumber", a."PhoneNumberConfirmed", a."SecurityAnswer", a."SecurityQuestion", a."SecurityStamp", a."TwoFactorEnabled", a."UserName"
+FROM "AspNetUsers" AS a
+WHERE a."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+2025-03-22 11:53:33.842 -04:00 [INF] Executed action method SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 60.3502ms.
+2025-03-22 11:53:33.845 -04:00 [INF] Executing ViewResult, running view Login.
+2025-03-22 11:53:33.846 -04:00 [INF] Executed ViewResult - view Login executed in 1.2247ms.
+2025-03-22 11:53:33.848 -04:00 [INF] Executed action SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement) in 69.3685ms
+2025-03-22 11:53:33.851 -04:00 [INF] Executed endpoint 'SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement)'
+2025-03-22 11:53:33.852 -04:00 [INF] Request finished HTTP/1.1 POST http://localhost:5153/Account/Login - 200 null text/html; charset=utf-8 86.0648ms
+2025-03-22 11:53:39.512 -04:00 [INF] Request starting HTTP/1.1 POST http://localhost:5153/Account/Login - application/x-www-form-urlencoded 235
+2025-03-22 11:53:39.517 -04:00 [INF] Executing endpoint 'SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement)'
+2025-03-22 11:53:39.518 -04:00 [INF] Route matched with {action = "Login", controller = "Account"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(SmartInventoryManagement.Models.LoginViewModel) on controller SmartInventoryManagement.Controllers.AccountController (SmartInventoryManagement).
+2025-03-22 11:53:39.522 -04:00 [INF] Executing action method SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement) - Validation state: "Valid"
+2025-03-22 11:53:39.524 -04:00 [INF] Executed DbCommand (1ms) [Parameters=[@__normalizedUserName_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT a."Id", a."AccessFailedCount", a."ConcurrencyStamp", a."ContactInformation", a."Email", a."EmailConfirmed", a."FullName", a."LockoutEnabled", a."LockoutEnd", a."NormalizedEmail", a."NormalizedUserName", a."PasswordHash", a."PhoneNumber", a."PhoneNumberConfirmed", a."SecurityAnswer", a."SecurityQuestion", a."SecurityStamp", a."TwoFactorEnabled", a."UserName"
+FROM "AspNetUsers" AS a
+WHERE a."NormalizedUserName" = @__normalizedUserName_0
+LIMIT 1
+2025-03-22 11:53:39.591 -04:00 [INF] Executed DbCommand (1ms) [Parameters=[@__user_Id_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT a."Id", a."ClaimType", a."ClaimValue", a."UserId"
+FROM "AspNetUserClaims" AS a
+WHERE a."UserId" = @__user_Id_0
+2025-03-22 11:53:39.597 -04:00 [INF] Executed DbCommand (1ms) [Parameters=[@__userId_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT a0."Name"
+FROM "AspNetUserRoles" AS a
+INNER JOIN "AspNetRoles" AS a0 ON a."RoleId" = a0."Id"
+WHERE a."UserId" = @__userId_0
+2025-03-22 11:53:39.598 -04:00 [INF] Executed DbCommand (0ms) [Parameters=[@__normalizedName_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT a."Id", a."ConcurrencyStamp", a."Name", a."NormalizedName"
+FROM "AspNetRoles" AS a
+WHERE a."NormalizedName" = @__normalizedName_0
+LIMIT 1
+2025-03-22 11:53:39.600 -04:00 [INF] Executed DbCommand (0ms) [Parameters=[@__role_Id_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT a."ClaimType", a."ClaimValue"
+FROM "AspNetRoleClaims" AS a
+WHERE a."RoleId" = @__role_Id_0
+2025-03-22 11:53:39.601 -04:00 [INF] AuthenticationScheme: Identity.Application signed in.
+2025-03-22 11:53:39.602 -04:00 [INF] Executed action method SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement), returned result Microsoft.AspNetCore.Mvc.RedirectToActionResult in 79.1242ms.
+2025-03-22 11:53:39.602 -04:00 [INF] Executing RedirectResult, redirecting to /.
+2025-03-22 11:53:39.603 -04:00 [INF] Executed action SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement) in 82.2171ms
+2025-03-22 11:53:39.603 -04:00 [INF] Executed endpoint 'SmartInventoryManagement.Controllers.AccountController.Login (SmartInventoryManagement)'
+2025-03-22 11:53:39.604 -04:00 [INF] Request finished HTTP/1.1 POST http://localhost:5153/Account/Login - 302 0 null 91.4256ms
+2025-03-22 11:53:39.606 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5153/ - null null
+2025-03-22 11:53:39.609 -04:00 [INF] Executing endpoint 'SmartInventoryManagement.Controllers.HomeController.Index (SmartInventoryManagement)'
+2025-03-22 11:53:39.611 -04:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller SmartInventoryManagement.Controllers.HomeController (SmartInventoryManagement).
+2025-03-22 11:53:39.612 -04:00 [INF] Executing action method SmartInventoryManagement.Controllers.HomeController.Index (SmartInventoryManagement) - Validation state: "Valid"
+2025-03-22 11:53:39.613 -04:00 [INF] Executed action method SmartInventoryManagement.Controllers.HomeController.Index (SmartInventoryManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0124ms.
+2025-03-22 11:53:39.614 -04:00 [INF] Executing ViewResult, running view Index.
+2025-03-22 11:53:39.615 -04:00 [INF] Executed ViewResult - view Index executed in 1.1108ms.
+2025-03-22 11:53:39.616 -04:00 [INF] Executed action SmartInventoryManagement.Controllers.HomeController.Index (SmartInventoryManagement) in 3.654ms
+2025-03-22 11:53:39.617 -04:00 [INF] Executed endpoint 'SmartInventoryManagement.Controllers.HomeController.Index (SmartInventoryManagement)'
+2025-03-22 11:53:39.618 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5153/ - 200 null text/html; charset=utf-8 11.1476ms
+2025-03-22 11:53:51.073 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5153/GuestOrders - null null
+2025-03-22 11:53:51.077 -04:00 [INF] Executing endpoint 'SmartInventoryManagement.Controllers.GuestOrdersController.Index (SmartInventoryManagement)'
+2025-03-22 11:53:51.078 -04:00 [INF] Route matched with {action = "Index", controller = "GuestOrders"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller SmartInventoryManagement.Controllers.GuestOrdersController (SmartInventoryManagement).
+2025-03-22 11:53:51.080 -04:00 [INF] Executing action method SmartInventoryManagement.Controllers.GuestOrdersController.Index (SmartInventoryManagement) - Validation state: "Valid"
+2025-03-22 11:53:51.155 -04:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT o."Id", o."CreatedDate", o."GuestEmail", o."GuestName", o."TotalPrice", s."Id", s."OrderId", s."Price", s."ProductId", s."ProductId1", s."Quantity", s."Id0", s."CategoryId", s."LowStockThreshold", s."Name", s."Price0", s."QuantityInStock"
+FROM "Orders" AS o
+LEFT JOIN (
+    SELECT o0."Id", o0."OrderId", o0."Price", o0."ProductId", o0."ProductId1", o0."Quantity", p."Id" AS "Id0", p."CategoryId", p."LowStockThreshold", p."Name", p."Price" AS "Price0", p."QuantityInStock"
+    FROM "OrderItems" AS o0
+    INNER JOIN "Products" AS p ON o0."ProductId" = p."Id"
+) AS s ON o."Id" = s."OrderId"
+ORDER BY o."Id", s."Id"
+2025-03-22 11:53:51.218 -04:00 [INF] Executed action method SmartInventoryManagement.Controllers.GuestOrdersController.Index (SmartInventoryManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 136.641ms.
+2025-03-22 11:53:51.219 -04:00 [INF] Executing ViewResult, running view Index.
+2025-03-22 11:53:51.229 -04:00 [INF] Executed ViewResult - view Index executed in 10.8804ms.
+2025-03-22 11:53:51.230 -04:00 [INF] Executed action SmartInventoryManagement.Controllers.GuestOrdersController.Index (SmartInventoryManagement) in 150.7667ms
+2025-03-22 11:53:51.232 -04:00 [INF] Executed endpoint 'SmartInventoryManagement.Controllers.GuestOrdersController.Index (SmartInventoryManagement)'
+2025-03-22 11:53:51.234 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5153/GuestOrders - 200 null text/html; charset=utf-8 160.9604ms

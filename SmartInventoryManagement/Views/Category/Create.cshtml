@@ -1,0 +1,29 @@
+@model SmartInventoryManagement.Models.Category
+@{
+ViewData["Title"] = "Create Category";
+}
+
+<h1>Create New Category</h1>
+
+<form method="post" asp-action="Create">
+    <div class="form-group">
+        <label for="Name">Category Name:</label>
+        <input type="text" class="form-control" id="Name" name="Name" required />
+    </div>
+    <div class="form-group">
+        <label for="Description">Description:</label>
+        <textarea class="form-control" id="Description" name="Description" rows="3"></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary" onclick="testAjax()">Create</button>
+</form>
+
+@section Scripts {
+    <script>
+        function testAjax() {
+            $.ajax({
+                url: '/Home/TestLoader',
+                method: 'GET'
+            });
+        }
+    </script>
+}

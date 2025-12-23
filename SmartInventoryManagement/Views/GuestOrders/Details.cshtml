@@ -1,0 +1,38 @@
+﻿@using SmartInventoryManagement.Models
+@model Order
+
+@{
+    ViewData["Title"] = "Order Summary";
+}
+
+<h1>Order Summary</h1>
+
+<p><strong>Guest Name:</strong> @Model.GuestName</p>
+<p><strong>Guest Email:</strong> @Model.GuestEmail</p>
+<p><strong>Total Price:</strong> @Model.TotalPrice.ToString("C")</p>
+<p><strong>Order Date:</strong> @Model.CreatedDate.ToShortDateString()</p>
+
+<h3>Ordered Products</h3>
+<table class="table">
+    <thead>
+    <tr>
+        <th>Product Name</th>
+        <th>Quantity</th>
+        <th>Price</th>
+        <th>Subtotal</th> 
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model.OrderItems)
+    {
+        <tr>
+            <td>@item.Product.Name</td> 
+            <td>@item.Quantity</td> 
+            <td>@item.Price.ToString("C")</td>
+            <td>@(item.Quantity * item.Price)</td> 
+        </tr>
+    }
+    </tbody>
+</table>
+
+<a href="@Url.Action("Index", "GuestOrders")" class="btn btn-secondary">Back to Orders</a>

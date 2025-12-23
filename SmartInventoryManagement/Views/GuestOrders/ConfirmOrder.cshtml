@@ -1,0 +1,43 @@
+﻿@model SmartInventoryManagement.Models.Order
+
+<h2>Confirm Your Order</h2>
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>Product</th>
+        <th>Quantity</th>
+        <th>Price</th>
+        <th>Subtotal</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model.OrderItems)
+    {
+        <tr>
+            <td>@item.Product.Name</td>
+            <td>@item.Quantity</td>
+            <td>$@item.Price</td>
+            <td>$@(item.Quantity * item.Price)</td>
+        </tr>
+    }
+    </tbody>
+</table>
+
+<h3>Total Price: $@Model.TotalPrice</h3>
+
+<form asp-action="CompleteOrder" method="post">
+    <input type="hidden" name="id" value="@Model.Id" />
+    <button type="submit" class="btn btn-success" onclick="testAjax()">Confirm & Place Order</button>
+</form>
+
+<a asp-action="Create" class="btn btn-secondary">Go Back</a>
+
+<script>
+    function testAjax() {
+        $.ajax({
+            url: '/Home/TestLoader',
+            method: 'GET'
+        });
+    }
+</script>

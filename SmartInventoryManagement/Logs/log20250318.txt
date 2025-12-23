@@ -1,0 +1,112 @@
+2025-03-18 22:04:24.318 -04:00 [WRN] The foreign key property 'OrderItem.ProductId1' was created in shadow state because a conflicting property with the simple name 'ProductId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2025-03-18 22:04:35.235 -04:00 [WRN] The foreign key property 'OrderItem.ProductId1' was created in shadow state because a conflicting property with the simple name 'ProductId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2025-03-18 22:04:35.671 -04:00 [INF] Executed DbCommand (59ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2025-03-18 22:04:35.851 -04:00 [WRN] The foreign key property 'OrderItem.ProductId1' was created in shadow state because a conflicting property with the simple name 'ProductId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2025-03-18 22:08:25.973 -04:00 [INF] User profile is available. Using 'C:\Users\phant\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-03-18 22:08:27.000 -04:00 [WRN] The foreign key property 'OrderItem.ProductId1' was created in shadow state because a conflicting property with the simple name 'ProductId' exists in the entity type, but is either not mapped, is already used for another relationship, or is incompatible with the associated primary key type. See https://aka.ms/efcore-relationships for information on mapping relationships in EF Core.
+2025-03-18 22:08:28.087 -04:00 [INF] Executed DbCommand (117ms) [Parameters=[@__normalizedName_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT a."Id", a."ConcurrencyStamp", a."Name", a."NormalizedName"
+FROM "AspNetRoles" AS a
+WHERE a."NormalizedName" = @__normalizedName_0
+LIMIT 1
+2025-03-18 22:08:28.255 -04:00 [INF] Executed DbCommand (7ms) [Parameters=[@__normalizedName_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT a."Id", a."ConcurrencyStamp", a."Name", a."NormalizedName"
+FROM "AspNetRoles" AS a
+WHERE a."NormalizedName" = @__normalizedName_0
+LIMIT 1
+2025-03-18 22:08:28.276 -04:00 [ERR] An error occurred while seeding roles and users: System.InvalidOperationException: Cannot create a DbSet for 'IdentityUser' because this type is not included in the model for the context.
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.get_EntityType()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.CheckState()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.get_EntityQueryable()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.System.Linq.IQueryable.get_Provider()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, Expression expression, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, LambdaExpression expression, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.SingleOrDefaultAsync[TSource](IQueryable`1 source, Expression`1 predicate, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Identity.EntityFrameworkCore.UserStore`9.FindByEmailAsync(String normalizedEmail, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Identity.UserManager`1.FindByEmailAsync(String email)
+   at Program.<Main>$(String[] args) in C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\Program.cs:line 54
+2025-03-18 22:08:28.535 -04:00 [INF] Now listening on: http://localhost:5153
+2025-03-18 22:08:28.543 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-18 22:08:28.545 -04:00 [INF] Hosting environment: Development
+2025-03-18 22:08:28.546 -04:00 [INF] Content root path: C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement
+2025-03-18 22:08:28.597 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5153/ - null null
+2025-03-18 22:08:28.618 -04:00 [WRN] Failed to determine the https port for redirect.
+2025-03-18 22:08:28.663 -04:00 [INF] Executing endpoint 'SmartInventoryManagement.Controllers.HomeController.Index (SmartInventoryManagement)'
+2025-03-18 22:08:28.685 -04:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller SmartInventoryManagement.Controllers.HomeController (SmartInventoryManagement).
+2025-03-18 22:08:28.700 -04:00 [INF] Executing action method SmartInventoryManagement.Controllers.HomeController.Index (SmartInventoryManagement) - Validation state: "Valid"
+2025-03-18 22:08:28.713 -04:00 [INF] Executed action method SmartInventoryManagement.Controllers.HomeController.Index (SmartInventoryManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 1.1923ms.
+2025-03-18 22:08:28.742 -04:00 [INF] Executing ViewResult, running view Index.
+2025-03-18 22:08:28.911 -04:00 [INF] Executed ViewResult - view Index executed in 171.0082ms.
+2025-03-18 22:08:28.917 -04:00 [INF] Executed action SmartInventoryManagement.Controllers.HomeController.Index (SmartInventoryManagement) in 227.4918ms
+2025-03-18 22:08:28.919 -04:00 [INF] Executed endpoint 'SmartInventoryManagement.Controllers.HomeController.Index (SmartInventoryManagement)'
+2025-03-18 22:08:28.932 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5153/ - 200 null text/html; charset=utf-8 337.0901ms
+2025-03-18 22:08:28.948 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5153/MySystem.styles.css - null null
+2025-03-18 22:08:28.971 -04:00 [INF] Executing endpoint 'SmartInventoryManagement.Controllers.ErrorController.NotFoundPage (SmartInventoryManagement)'
+2025-03-18 22:08:28.978 -04:00 [INF] Route matched with {action = "NotFoundPage", controller = "Error"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult NotFoundPage() on controller SmartInventoryManagement.Controllers.ErrorController (SmartInventoryManagement).
+2025-03-18 22:08:28.985 -04:00 [INF] Executing action method SmartInventoryManagement.Controllers.ErrorController.NotFoundPage (SmartInventoryManagement) - Validation state: "Valid"
+2025-03-18 22:08:28.987 -04:00 [INF] Executed action method SmartInventoryManagement.Controllers.ErrorController.NotFoundPage (SmartInventoryManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.3498ms.
+2025-03-18 22:08:28.996 -04:00 [INF] Executing ViewResult, running view 404.
+2025-03-18 22:08:29.012 -04:00 [INF] Executed ViewResult - view 404 executed in 19.5154ms.
+2025-03-18 22:08:29.018 -04:00 [INF] Executed action SmartInventoryManagement.Controllers.ErrorController.NotFoundPage (SmartInventoryManagement) in 33.5926ms
+2025-03-18 22:08:29.021 -04:00 [INF] Executed endpoint 'SmartInventoryManagement.Controllers.ErrorController.NotFoundPage (SmartInventoryManagement)'
+2025-03-18 22:08:29.027 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5153/MySystem.styles.css - 404 null text/html; charset=utf-8 79.5373ms
+2025-03-18 22:08:29.034 -04:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5153/MySystem.styles.css, Response status code: 404
+2025-03-18 22:08:29.204 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5153/lib/jquery/dist/jquery.min.js - null null
+2025-03-18 22:08:29.243 -04:00 [INF] Sending file. Request path: '/lib/jquery/dist/jquery.min.js'. Physical path: 'C:\Users\phant\RiderProjects\COMP2139\Assignment 1\SmartInventoryManagement\SmartInventoryManagement\wwwroot\lib\jquery\dist\jquery.min.js'
+2025-03-18 22:08:29.255 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5153/lib/jquery/dist/jquery.min.js - 200 87535 text/javascript 51.0349ms
+2025-03-18 22:08:30.961 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5153/GuestOrders - null null
+2025-03-18 22:08:30.972 -04:00 [INF] Executing endpoint 'SmartInventoryManagement.Controllers.GuestOrdersController.Index (SmartInventoryManagement)'
+2025-03-18 22:08:30.982 -04:00 [INF] Route matched with {action = "Index", controller = "GuestOrders"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller SmartInventoryManagement.Controllers.GuestOrdersController (SmartInventoryManagement).
+2025-03-18 22:08:30.995 -04:00 [INF] Executing action method SmartInventoryManagement.Controllers.GuestOrdersController.Index (SmartInventoryManagement) - Validation state: "Valid"
+2025-03-18 22:08:31.229 -04:00 [INF] Executed DbCommand (11ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT o."Id", o."CreatedDate", o."GuestEmail", o."GuestName", o."TotalPrice", s."Id", s."OrderId", s."Price", s."ProductId", s."ProductId1", s."Quantity", s."Id0", s."CategoryId", s."LowStockThreshold", s."Name", s."Price0", s."QuantityInStock"
+FROM "Orders" AS o
+LEFT JOIN (
+    SELECT o0."Id", o0."OrderId", o0."Price", o0."ProductId", o0."ProductId1", o0."Quantity", p."Id" AS "Id0", p."CategoryId", p."LowStockThreshold", p."Name", p."Price" AS "Price0", p."QuantityInStock"
+    FROM "OrderItems" AS o0
+    INNER JOIN "Products" AS p ON o0."ProductId" = p."Id"
+) AS s ON o."Id" = s."OrderId"
+ORDER BY o."Id", s."Id"
+2025-03-18 22:08:31.332 -04:00 [INF] Executed action method SmartInventoryManagement.Controllers.GuestOrdersController.Index (SmartInventoryManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 333.0974ms.
+2025-03-18 22:08:31.338 -04:00 [INF] Executing ViewResult, running view Index.
+2025-03-18 22:08:31.357 -04:00 [INF] Executed ViewResult - view Index executed in 19.4112ms.
+2025-03-18 22:08:31.359 -04:00 [INF] Executed action SmartInventoryManagement.Controllers.GuestOrdersController.Index (SmartInventoryManagement) in 368.0414ms
+2025-03-18 22:08:31.360 -04:00 [INF] Executed endpoint 'SmartInventoryManagement.Controllers.GuestOrdersController.Index (SmartInventoryManagement)'
+2025-03-18 22:08:31.373 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5153/GuestOrders - 200 null text/html; charset=utf-8 412.9495ms
+2025-03-18 22:08:31.400 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5153/MySystem.styles.css - null null
+2025-03-18 22:08:31.411 -04:00 [INF] Executing endpoint 'SmartInventoryManagement.Controllers.ErrorController.NotFoundPage (SmartInventoryManagement)'
+2025-03-18 22:08:31.413 -04:00 [INF] Route matched with {action = "NotFoundPage", controller = "Error"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult NotFoundPage() on controller SmartInventoryManagement.Controllers.ErrorController (SmartInventoryManagement).
+2025-03-18 22:08:31.415 -04:00 [INF] Executing action method SmartInventoryManagement.Controllers.ErrorController.NotFoundPage (SmartInventoryManagement) - Validation state: "Valid"
+2025-03-18 22:08:31.417 -04:00 [INF] Executed action method SmartInventoryManagement.Controllers.ErrorController.NotFoundPage (SmartInventoryManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.065ms.
+2025-03-18 22:08:31.420 -04:00 [INF] Executing ViewResult, running view 404.
+2025-03-18 22:08:31.424 -04:00 [INF] Executed ViewResult - view 404 executed in 5.1551ms.
+2025-03-18 22:08:31.428 -04:00 [INF] Executed action SmartInventoryManagement.Controllers.ErrorController.NotFoundPage (SmartInventoryManagement) in 13.4733ms
+2025-03-18 22:08:31.432 -04:00 [INF] Executed endpoint 'SmartInventoryManagement.Controllers.ErrorController.NotFoundPage (SmartInventoryManagement)'
+2025-03-18 22:08:31.437 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5153/MySystem.styles.css - 404 null text/html; charset=utf-8 36.5326ms
+2025-03-18 22:08:31.450 -04:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5153/MySystem.styles.css, Response status code: 404
+2025-03-18 22:08:39.220 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5153/randompage - null null
+2025-03-18 22:08:39.226 -04:00 [INF] Executing endpoint 'SmartInventoryManagement.Controllers.ErrorController.NotFoundPage (SmartInventoryManagement)'
+2025-03-18 22:08:39.228 -04:00 [INF] Route matched with {action = "NotFoundPage", controller = "Error"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult NotFoundPage() on controller SmartInventoryManagement.Controllers.ErrorController (SmartInventoryManagement).
+2025-03-18 22:08:39.230 -04:00 [INF] Executing action method SmartInventoryManagement.Controllers.ErrorController.NotFoundPage (SmartInventoryManagement) - Validation state: "Valid"
+2025-03-18 22:08:39.233 -04:00 [INF] Executed action method SmartInventoryManagement.Controllers.ErrorController.NotFoundPage (SmartInventoryManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0504ms.
+2025-03-18 22:08:39.236 -04:00 [INF] Executing ViewResult, running view 404.
+2025-03-18 22:08:39.240 -04:00 [INF] Executed ViewResult - view 404 executed in 3.9171ms.
+2025-03-18 22:08:39.244 -04:00 [INF] Executed action SmartInventoryManagement.Controllers.ErrorController.NotFoundPage (SmartInventoryManagement) in 13.8991ms
+2025-03-18 22:08:39.249 -04:00 [INF] Executed endpoint 'SmartInventoryManagement.Controllers.ErrorController.NotFoundPage (SmartInventoryManagement)'
+2025-03-18 22:08:39.252 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5153/randompage - 404 null text/html; charset=utf-8 32.6652ms
+2025-03-18 22:08:39.262 -04:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5153/randompage, Response status code: 404
+2025-03-18 22:08:39.270 -04:00 [INF] Request starting HTTP/1.1 GET http://localhost:5153/MySystem.styles.css - null null
+2025-03-18 22:08:39.278 -04:00 [INF] Executing endpoint 'SmartInventoryManagement.Controllers.ErrorController.NotFoundPage (SmartInventoryManagement)'
+2025-03-18 22:08:39.283 -04:00 [INF] Route matched with {action = "NotFoundPage", controller = "Error"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult NotFoundPage() on controller SmartInventoryManagement.Controllers.ErrorController (SmartInventoryManagement).
+2025-03-18 22:08:39.290 -04:00 [INF] Executing action method SmartInventoryManagement.Controllers.ErrorController.NotFoundPage (SmartInventoryManagement) - Validation state: "Valid"
+2025-03-18 22:08:39.296 -04:00 [INF] Executed action method SmartInventoryManagement.Controllers.ErrorController.NotFoundPage (SmartInventoryManagement), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0462ms.
+2025-03-18 22:08:39.301 -04:00 [INF] Executing ViewResult, running view 404.
+2025-03-18 22:08:39.305 -04:00 [INF] Executed ViewResult - view 404 executed in 4.7ms.
+2025-03-18 22:08:39.308 -04:00 [INF] Executed action SmartInventoryManagement.Controllers.ErrorController.NotFoundPage (SmartInventoryManagement) in 17.6326ms
+2025-03-18 22:08:39.309 -04:00 [INF] Executed endpoint 'SmartInventoryManagement.Controllers.ErrorController.NotFoundPage (SmartInventoryManagement)'
+2025-03-18 22:08:39.311 -04:00 [INF] Request finished HTTP/1.1 GET http://localhost:5153/MySystem.styles.css - 404 null text/html; charset=utf-8 41.6241ms
+2025-03-18 22:08:39.315 -04:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5153/MySystem.styles.css, Response status code: 404
+2025-03-18 22:08:44.785 -04:00 [INF] Application is shutting down...

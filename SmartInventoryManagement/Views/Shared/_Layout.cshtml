@@ -1,0 +1,118 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>@ViewData["Title"] Smart Inventory</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css"/>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    <!-- Validation scripts -->
+    <script src="~/lib/jquery-validation/jquery.validate.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light bg-white border-bottom box-shadow mb-3">
+        <div class="container-fluid">
+            <a class="navbar-brand d-flex align-items-center" asp-area="" asp-controller="Home" asp-action="Index">
+                <img src="~/img/logo.png" alt="Logo" class="logo">
+                <span class="fw bold">SmartInventory</span>
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+
+                    <!-- Always visible: Place Order -->
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-controller="GuestOrders" asp-action="Create">Order Now</a>
+                    </li>
+
+                    <!-- Admin-only links -->
+                    @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+                    {
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle text-dark" href="#" id="inventoryDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Inventory Management
+                            </a>
+                            <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="inventoryDropdown">
+                                <li><a class="dropdown-item" asp-controller="Product" asp-action="Index">Products</a></li>
+                                <li><a class="dropdown-item" asp-controller="Category" asp-action="Index">Categories</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-controller="GuestOrders" asp-action="Index">Order Tracking</a>
+                        </li>
+                    }
+
+                    <!-- Show My Profile for all authenticated users -->
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-controller="Account" asp-action="Profile">My Profile</a>
+                        </li>
+                    }
+
+                    <!-- Auth links -->
+                    @if (!User.Identity.IsAuthenticated)
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" href="@Url.Action("Login", "Account")">Login</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" href="@Url.Action("Register", "Account")">Register</a>
+                        </li>
+                    }
+                    else
+                    {
+                        <li class="nav-item d-flex align-items-center">
+                            <form asp-controller="Account" asp-action="Logout" method="post" class="d-inline">
+                                <button type="submit" class="nav-link text-dark p-0 m-0" style="background: none; border: none;">
+                                    Logout
+                                </button>
+                            </form>
+                        </li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+
+<div class="container">
+    <main role="main" class="pb-3">
+        @RenderBody()
+    </main>
+</div>
+
+<footer class="border-top footer text-muted">
+    <div class="container text-center">
+        <p>
+            <strong>Student Name:</strong> Thinh Phan |
+            <strong>Student ID:</strong> 101470541 |
+            <strong>CRN:</strong> 54720
+        </p>
+        <p>
+            <strong>Student Name:</strong> Vy Nguyen |
+            <strong>Student ID:</strong> 101488823 |
+            <strong>CRN:</strong> 50269
+        </p>
+    </div>
+</footer>
+
+<!-- Loader/Spinner -->
+<div id="loader" style="display: none; position: fixed; top: 50%; left: 50%; z-index: 9999;">
+    <img src="~/img/Loader.gif" alt="Loading..." />
+</div>
+
+@await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

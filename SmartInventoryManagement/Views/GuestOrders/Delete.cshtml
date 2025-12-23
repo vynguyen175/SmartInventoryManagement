@@ -1,0 +1,30 @@
+﻿@using SmartInventoryManagement.Models
+@model Order
+
+@{
+    ViewData["Title"] = "Delete Order";
+}
+
+<h1>Delete Order</h1>
+<p>Are you sure you want to delete this order?</p>
+
+<table class="table">
+    <tr>
+        <th>Guest Name</th>
+        <td>@Model.GuestName</td>
+    </tr>
+    <tr>
+        <th>Guest Email</th>
+        <td>@Model.GuestEmail</td>
+    </tr>
+    <tr>
+        <th>Total Price</th>
+        <td>@Model.TotalPrice.ToString("C")</td>
+    </tr>
+</table>
+
+<form asp-action="DeleteConfirmed" method="post">
+    <input type="hidden" name="id" value="@Model.Id" />
+    <button type="submit" class="btn btn-danger">Confirm Delete</button>
+    <a href="@Url.Action("Index", "GuestOrders")" class="btn btn-secondary">Cancel</a>
+</form>

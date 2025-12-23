@@ -1,0 +1,39 @@
+@model IEnumerable<SmartInventoryManagement.Models.Category>
+
+<h1>Categories</h1>
+<p>
+    <a href="@Url.Action("Create", "Category")" class="btn btn-primary" onclick="testAjax()">Create New Category</a>
+</p>
+<table class="table">
+    <thead>
+    <tr>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Actions</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var category in Model)
+    {
+        <tr>
+            <td>@category.Name</td>
+            <td>@category.Description</td>
+            <td>
+                <a href="@Url.Action("Edit", "Category", new { id = category.Id })" class="btn btn-warning" onclick="testAjax()">Edit</a>
+                <a href="@Url.Action("Delete", "Category", new { id = category.Id })" class="btn btn-danger" onclick="testAjax()">Delete</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+
+@section Scripts {
+    <script>
+        function testAjax() {
+            $.ajax({
+                url: '/Home/TestLoader',
+                method: 'GET'
+            });
+        }
+    </script>
+}

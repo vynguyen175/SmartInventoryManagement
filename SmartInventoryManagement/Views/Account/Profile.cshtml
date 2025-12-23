@@ -1,0 +1,56 @@
+﻿@model SmartInventoryManagement.Models.ProfileViewModel
+
+@{
+    ViewData["Title"] = "My Profile";
+}
+
+<h2>My Profile</h2>
+
+<div class="mb-4">
+    <p><strong>Full Name:</strong> @Model.FullName</p>
+    <p><strong>Email:</strong> @Model.Email</p>
+    <p><strong>Date of Birth:</strong> @(Model.DateOfBirth?.ToString("yyyy-MM-dd") ?? "Not provided")</p>
+    <p><strong>Pronouns:</strong> @(Model.Pronouns ?? "Not specified")</p>
+    <p><strong>Address:</strong> @(Model.Address ?? "Not provided")</p>
+
+    <a asp-action="EditProfile" asp-controller="Account" class="btn btn-primary mt-2">Update Profile</a>
+</div>
+
+<a asp-action="ChangePasswordWithSecurity" asp-controller="Account" class="btn btn-warning mt-3">Change Password</a>
+<p></p>
+
+<h3>My Orders</h3>
+
+@if (Model.Orders.Any())
+{
+    <table class="table table-bordered">
+        <thead>
+        <tr>
+            <th>Order ID</th>
+            <th>Quantity</th>
+            <th>Product</th>
+            <th>Total Price</th>
+            <th>Order Date</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var order in Model.Orders)
+        {
+            @foreach (var item in order.OrderItems)
+            {
+                <tr>
+                    <td>@order.Id</td>
+                    <td>@item.Quantity</td>
+                    <td>@item.Product.Name</td>
+                    <td>@((item.Quantity * item.Price).ToString("C"))</td>
+                    <td>@order.CreatedDate.ToShortDateString()</td>
+                </tr>
+            }
+        }
+        </tbody>
+    </table>
+}
+else
+{
+    <p class="text-muted">You haven't placed any orders yet.</p>
+}

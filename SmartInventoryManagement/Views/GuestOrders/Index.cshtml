@@ -1,0 +1,52 @@
+@model IEnumerable<SmartInventoryManagement.Models.Order>
+
+@{
+    ViewData["Title"] = "Guest Orders";
+}
+
+<h1>Guest Orders</h1>
+
+<table class="table table-bordered">
+    <thead>
+    <tr>
+        <th>Guest Name</th>
+        <th>Guest Email</th>
+        <th>Total Price</th>
+        <th>Created Date</th>
+        <th>Actions</th>
+    </tr>
+    </thead>
+    <tbody>
+    @if (Model.Any())
+    {
+        @foreach (var order in Model)
+        {
+            <tr>
+                <td>
+                    @order.GuestName
+                    <span class="badge bg-secondary ms-1">@order.CreatedBy</span>
+                </td>
+                <td>@order.GuestEmail</td>
+
+                <td>@order.OrderItems.Sum(oi => oi.Price * oi.Quantity).ToString("C")</td>
+                <td>@order.CreatedDate.ToShortDateString()</td>
+                <td>
+                    <a href="@Url.Action("Details", "GuestOrders", new { id = order.Id })" class="btn btn-info">View</a>
+                    <a href="@Url.Action("Edit", "GuestOrders", new { id = order.Id })" class="btn btn-warning">Edit</a>
+                    <a href="@Url.Action("Delete", "GuestOrders", new { id = order.Id })" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    }
+    else
+    {
+        <tr>
+            <td colspan="5" class="text-center text-muted">No orders found.</td>
+        </tr>
+    }
+    </tbody>
+</table>
+
+<!-- 
+<a href="@Url.Action("Create", "GuestOrders")" class="btn btn-primary">Create New Order</a>
+-->

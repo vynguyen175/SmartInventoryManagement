@@ -1,0 +1,64 @@
+﻿@model SmartInventoryManagement.Models.Order
+
+<h2>Place an Order</h2>
+
+<form asp-action="Create" method="post">
+    @if (!User.Identity.IsAuthenticated)
+    {
+        <div class="form-group">
+            <label for="guestName">Guest Name</label>
+            <input type="text" name="guestName" class="form-control" required />
+        </div>
+
+        <div class="form-group">
+            <label for="guestEmail">Guest Email</label>
+            <input type="email" name="guestEmail" class="form-control" required />
+        </div>
+    }
+
+    <h4>Select Products</h4>
+    <table class="table">
+        <thead>
+        <tr>
+            <th>Product</th>
+            <th>Price</th>
+            <th>Available Stock</th>
+            <th>Quantity</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var product in ViewBag.Products)
+        {
+            <tr>
+                <td>
+                    <input type="checkbox" name="productIds" value="@product.Id" />
+                    @product.Name
+                </td>
+                <td>$@product.Price</td>
+                <td>
+                    @product.QuantityInStock
+                    @if (product.QuantityInStock <= product.LowStockThreshold)
+                    {
+                        <span class="badge bg-warning text-dark">Low Stock!</span>
+                    }
+                </td>
+                <td>
+                    <input type="number" name="quantities" min="1" max="@product.QuantityInStock" class="form-control" />
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+
+    <button type="submit" class="btn btn-success" onclick="testAjax()">Proceed to Confirmation</button>
+</form>
+@section Scripts {
+    <script>
+        function testAjax() {
+            $.ajax({
+                url: '/Home/TestLoader',
+                method: 'GET'
+            });
+        }
+    </script>
+}
