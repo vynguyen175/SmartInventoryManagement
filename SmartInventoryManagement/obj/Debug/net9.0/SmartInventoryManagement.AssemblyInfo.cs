@@ -11,10 +11,11 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("99bcf2ef-4ff7-493b-9ac0-f9e55438c9c6")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartInventoryManagement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44b39e51da4efdc245b7ec57a61410b2c47b3138")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47db956786c4cfe6c3b38a532f01a3f9c49423f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartInventoryManagement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartInventoryManagement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
