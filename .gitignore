@@ -1,2 +1,22 @@
 bin/
 obj/
+nul
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Logs
+Logs/
+
+# IDE
+.idea/
+.vscode/
+
+# Claude
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -14,9 +14,23 @@ Log.Logger = new LoggerConfiguration()
     .CreateLogger();
 builder.Host.UseSerilog();
 
+// Get connection string - support Railway's DATABASE_URL or fallback to appsettings
+var connectionString = Environment.GetEnvironmentVariable("DATABASE_URL");
+if (!string.IsNullOrEmpty(connectionString))
+{
+    // Convert Railway's postgres:// URL to Npgsql format
+    var uri = new Uri(connectionString);
+    var userInfo = uri.UserInfo.Split(':');
+    connectionString = $"Host={uri.Host};Port={uri.Port};Database={uri.AbsolutePath.TrimStart('/')};Username={userInfo[0]};Password={userInfo[1]};SSL Mode=Require;Trust Server Certificate=true";
+}
+else
+{
+    connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+}
+
 // Configure database context with PostgreSQL
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseNpgsql(connectionString));
 
 // Add Identity services with custom ApplicationUser
 builder.Services.AddIdentity<ApplicationUser, IdentityRole>() // Use ApplicationUser here
@@ -32,13 +46,16 @@ builder.Services.AddTransient<IEmailSender, EmailSender>();
 
 var app = builder.Build();
 
-// Ensure roles and default admin user exist on startup
-// Ensure roles and default admin user exist on startup
+// Ensure database is migrated and roles/users exist on startup
 using (var scope = app.Services.CreateScope())
 {
     var services = scope.ServiceProvider;
     try
     {
+        // Auto-migrate database in production
+        var context = services.GetRequiredService<ApplicationDbContext>();
+        context.Database.Migrate();
+
         var roleManager = services.GetRequiredService<RoleManager<IdentityRole>>();
         var userManager = services.GetRequiredService<UserManager<ApplicationUser>>();
 
@@ -67,7 +84,9 @@ using (var scope = app.Services.CreateScope())
                 FullName = "Admin User",
                 ContactInformation = "N/A",
                 SecurityQuestion = "What is the name of your best friend?",
-                SecurityAnswer = "AdminFriend"
+                SecurityAnswer = "AdminFriend",
+                Address = "N/A",
+                Pronouns = ""
             };
 
             var result = await userManager.CreateAsync(adminUser, adminPassword);
@@ -91,7 +110,9 @@ using (var scope = app.Services.CreateScope())
                 FullName = "Regular User",
                 ContactInformation = "N/A",
                 SecurityQuestion = "What is your favourite movie or book?",
-                SecurityAnswer = "RegularAnswer"
+                SecurityAnswer = "RegularAnswer",
+                Address = "N/A",
+                Pronouns = ""
             };
 
             var result = await userManager.CreateAsync(regularUser, userPassword);
@@ -112,7 +133,11 @@ using (var scope = app.Services.CreateScope())
 app.UseExceptionHandler("/Error/500"); // Redirects to custom 500 error page
 app.UseStatusCodePagesWithReExecute("/Error/{0}"); // Handles 404 & other status codes
 
-app.UseHttpsRedirection();
+// Only use HTTPS redirection in development (Railway handles SSL at edge)
+if (app.Environment.IsDevelopment())
+{
+    app.UseHttpsRedirection();
+}
 app.UseStaticFiles();
 app.UseRouting();
 

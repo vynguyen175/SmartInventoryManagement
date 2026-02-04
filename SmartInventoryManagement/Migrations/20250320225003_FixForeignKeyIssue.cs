@@ -60,12 +60,6 @@ namespace SmartInventoryManagement.Migrations
                 oldClrType: typeof(decimal),
                 oldType: "numeric");
 
-            migrationBuilder.AddColumn<int>(
-                name: "ProductId1",
-                table: "OrderItems",
-                type: "integer",
-                nullable: true);
-
             migrationBuilder.AlterColumn<decimal>(
                 name: "Price",
                 table: "GuestOrderViews",
@@ -99,23 +93,11 @@ namespace SmartInventoryManagement.Migrations
                 name: "CK_Product_QuantityInStock",
                 table: "Products",
                 sql: "\"QuantityInStock\" >= 0");
-            
-
-            migrationBuilder.AddForeignKey(
-                name: "FK_OrderItems_Products_ProductId1",
-                table: "OrderItems",
-                column: "ProductId1",
-                principalTable: "Products",
-                principalColumn: "Id");
         }
 
         /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
-            migrationBuilder.DropForeignKey(
-                name: "FK_OrderItems_Products_ProductId1",
-                table: "OrderItems");
-
             migrationBuilder.DropCheckConstraint(
                 name: "CK_Product_QuantityInStock",
                 table: "Products");
@@ -135,10 +117,6 @@ namespace SmartInventoryManagement.Migrations
                 table: "Categories",
                 keyColumn: "Id",
                 keyValue: 3);
-
-            migrationBuilder.DropColumn(
-                name: "ProductId1",
-                table: "OrderItems");
 
             migrationBuilder.RenameColumn(
                 name: "ContactInformation",

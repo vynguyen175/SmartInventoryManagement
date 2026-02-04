@@ -317,12 +317,6 @@ namespace SmartInventoryManagement.Migrations
                 oldClrType: typeof(decimal),
                 oldType: "numeric");
 
-            migrationBuilder.AddColumn<int>(
-                name: "ProductId1",
-                table: "OrderItems",
-                type: "integer",
-                nullable: true);
-
             migrationBuilder.AlterColumn<decimal>(
                 name: "Price",
                 table: "GuestOrderViews",
