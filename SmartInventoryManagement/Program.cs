@@ -15,13 +15,22 @@ Log.Logger = new LoggerConfiguration()
 builder.Host.UseSerilog();
 
 // Get connection string - support Railway's DATABASE_URL or fallback to appsettings
-var connectionString = Environment.GetEnvironmentVariable("DATABASE_URL");
-if (!string.IsNullOrEmpty(connectionString))
+var databaseUrl = Environment.GetEnvironmentVariable("DATABASE_URL");
+string? connectionString;
+if (!string.IsNullOrEmpty(databaseUrl))
 {
-    // Convert Railway's postgres:// URL to Npgsql format
-    var uri = new Uri(connectionString);
+    // Convert Railway's postgresql:// URL to Npgsql format
+    // Example: postgresql://user:pass@host:5432/dbname
+    var uri = new Uri(databaseUrl);
     var userInfo = uri.UserInfo.Split(':');
-    connectionString = $"Host={uri.Host};Port={uri.Port};Database={uri.AbsolutePath.TrimStart('/')};Username={userInfo[0]};Password={userInfo[1]};SSL Mode=Require;Trust Server Certificate=true";
+    var host = uri.Host;
+    var port = uri.Port > 0 ? uri.Port : 5432;
+    var database = uri.AbsolutePath.TrimStart('/');
+    var username = userInfo[0];
+    var password = userInfo.Length > 1 ? userInfo[1] : "";
+
+    // Railway internal connections don't need SSL
+    connectionString = $"Host={host};Port={port};Database={database};Username={username};Password={password}";
 }
 else
 {
