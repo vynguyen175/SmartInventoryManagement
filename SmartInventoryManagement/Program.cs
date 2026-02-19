@@ -30,8 +30,16 @@ if (!string.IsNullOrEmpty(databaseUrl))
     var username = Uri.UnescapeDataString(userInfo[0]);
     var password = userInfo.Length > 1 ? Uri.UnescapeDataString(userInfo[1]) : "";
 
-    // Include SSL mode for Railway PostgreSQL connections
-    connectionString = $"Host={host};Port={port};Database={database};Username={username};Password={password};SSL Mode=Require;Trust Server Certificate=true";
+    // Internal Railway connections (.railway.internal) don't need SSL
+    // External/public connections require SSL
+    if (host.EndsWith(".railway.internal"))
+    {
+        connectionString = $"Host={host};Port={port};Database={database};Username={username};Password={password}";
+    }
+    else
+    {
+        connectionString = $"Host={host};Port={port};Database={database};Username={username};Password={password};SSL Mode=Require;Trust Server Certificate=true";
+    }
 }
 else
 {
