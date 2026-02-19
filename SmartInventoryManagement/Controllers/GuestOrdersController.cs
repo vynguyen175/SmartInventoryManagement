@@ -32,7 +32,7 @@ namespace SmartInventoryManagement.Controllers
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Error retrieving guest orders.");
-                return RedirectToAction("Error500", "Error");
+                return Redirect("/Error/500");
             }
         }
 
@@ -46,7 +46,7 @@ namespace SmartInventoryManagement.Controllers
             catch (Exception ex)
             {
                 _logger.LogError(ex, "Error loading Create Order page.");
-                return RedirectToAction("Error500", "Error");
+                return Redirect("/Error/500");
             }
         }
 
@@ -175,7 +175,7 @@ namespace SmartInventoryManagement.Controllers
             catch (Exception ex)
             {
                 _logger.LogError(ex, $"Error retrieving details for order ID {id}");
-                return RedirectToAction("Error500", "Error");
+                return Redirect("/Error/500");
             }
         }
 
@@ -264,7 +264,7 @@ namespace SmartInventoryManagement.Controllers
             catch (Exception ex)
             {
                 _logger.LogError(ex, $"Error deleting order ID {id}");
-                return RedirectToAction("Error500", "Error");
+                return Redirect("/Error/500");
             }
         }
     }
