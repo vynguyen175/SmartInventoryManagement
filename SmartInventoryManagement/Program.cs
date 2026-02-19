@@ -26,8 +26,9 @@ if (!string.IsNullOrEmpty(databaseUrl))
     var host = uri.Host;
     var port = uri.Port > 0 ? uri.Port : 5432;
     var database = uri.AbsolutePath.TrimStart('/');
-    var username = userInfo[0];
-    var password = userInfo.Length > 1 ? userInfo[1] : "";
+    // URL-decode username and password in case they contain special characters
+    var username = Uri.UnescapeDataString(userInfo[0]);
+    var password = userInfo.Length > 1 ? Uri.UnescapeDataString(userInfo[1]) : "";
 
     // Railway internal connections don't need SSL
     connectionString = $"Host={host};Port={port};Database={database};Username={username};Password={password}";
